@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\8_Traffic_Jam\bin\Debug\netcoreapp3.1\8_Traffic_Jam.exe
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\8_Traffic_Jam\bin\Debug\netcoreapp3.1\8_Traffic_Jam.deps.json
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\8_Traffic_Jam\bin\Debug\netcoreapp3.1\8_Traffic_Jam.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\8_Traffic_Jam\bin\Debug\netcoreapp3.1\8_Traffic_Jam.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\8_Traffic_Jam\bin\Debug\netcoreapp3.1\8_Traffic_Jam.dll
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\8_Traffic_Jam\bin\Debug\netcoreapp3.1\8_Traffic_Jam.pdb
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\8_Traffic_Jam\obj\Debug\netcoreapp3.1\8_Traffic_Jam.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\8_Traffic_Jam\obj\Debug\netcoreapp3.1\8_Traffic_Jam.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\8_Traffic_Jam\obj\Debug\netcoreapp3.1\8_Traffic_Jam.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\8_Traffic_Jam\obj\Debug\netcoreapp3.1\8_Traffic_Jam.dll
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\8_Traffic_Jam\obj\Debug\netcoreapp3.1\8_Traffic_Jam.pdb
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\8_Traffic_Jam\obj\Debug\netcoreapp3.1\8_Traffic_Jam.genruntimeconfig.cache

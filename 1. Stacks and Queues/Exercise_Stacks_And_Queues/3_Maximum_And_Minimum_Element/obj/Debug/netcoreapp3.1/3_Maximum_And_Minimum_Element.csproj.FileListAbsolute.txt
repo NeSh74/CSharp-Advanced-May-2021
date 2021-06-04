@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Exercise_Stacks_And_Queues\3_Maximum_And_Minimum_Element\bin\Debug\netcoreapp3.1\3_Maximum_And_Minimum_Element.exe
+C:\Users\lenovo\source\repos\Exercise_Stacks_And_Queues\3_Maximum_And_Minimum_Element\bin\Debug\netcoreapp3.1\3_Maximum_And_Minimum_Element.deps.json
+C:\Users\lenovo\source\repos\Exercise_Stacks_And_Queues\3_Maximum_And_Minimum_Element\bin\Debug\netcoreapp3.1\3_Maximum_And_Minimum_Element.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercise_Stacks_And_Queues\3_Maximum_And_Minimum_Element\bin\Debug\netcoreapp3.1\3_Maximum_And_Minimum_Element.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercise_Stacks_And_Queues\3_Maximum_And_Minimum_Element\bin\Debug\netcoreapp3.1\3_Maximum_And_Minimum_Element.dll
+C:\Users\lenovo\source\repos\Exercise_Stacks_And_Queues\3_Maximum_And_Minimum_Element\bin\Debug\netcoreapp3.1\3_Maximum_And_Minimum_Element.pdb
+C:\Users\lenovo\source\repos\Exercise_Stacks_And_Queues\3_Maximum_And_Minimum_Element\obj\Debug\netcoreapp3.1\3_Maximum_And_Minimum_Element.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Exercise_Stacks_And_Queues\3_Maximum_And_Minimum_Element\obj\Debug\netcoreapp3.1\3_Maximum_And_Minimum_Element.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Stacks_And_Queues\3_Maximum_And_Minimum_Element\obj\Debug\netcoreapp3.1\3_Maximum_And_Minimum_Element.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercise_Stacks_And_Queues\3_Maximum_And_Minimum_Element\obj\Debug\netcoreapp3.1\3_Maximum_And_Minimum_Element.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Stacks_And_Queues\3_Maximum_And_Minimum_Element\obj\Debug\netcoreapp3.1\3_Maximum_And_Minimum_Element.dll
+C:\Users\lenovo\source\repos\Exercise_Stacks_And_Queues\3_Maximum_And_Minimum_Element\obj\Debug\netcoreapp3.1\3_Maximum_And_Minimum_Element.pdb
+C:\Users\lenovo\source\repos\Exercise_Stacks_And_Queues\3_Maximum_And_Minimum_Element\obj\Debug\netcoreapp3.1\3_Maximum_And_Minimum_Element.genruntimeconfig.cache

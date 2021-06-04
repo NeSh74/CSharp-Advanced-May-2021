@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "8_Traffic_Jam/1.0.0": {
+        "runtime": {
+          "8_Traffic_Jam.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "8_Traffic_Jam/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

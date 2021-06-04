@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\4_Matching_Brackets\bin\Debug\netcoreapp3.1\4_Matching_Brackets.exe
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\4_Matching_Brackets\bin\Debug\netcoreapp3.1\4_Matching_Brackets.deps.json
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\4_Matching_Brackets\bin\Debug\netcoreapp3.1\4_Matching_Brackets.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\4_Matching_Brackets\bin\Debug\netcoreapp3.1\4_Matching_Brackets.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\4_Matching_Brackets\bin\Debug\netcoreapp3.1\4_Matching_Brackets.dll
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\4_Matching_Brackets\bin\Debug\netcoreapp3.1\4_Matching_Brackets.pdb
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\4_Matching_Brackets\obj\Debug\netcoreapp3.1\4_Matching_Brackets.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\4_Matching_Brackets\obj\Debug\netcoreapp3.1\4_Matching_Brackets.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\4_Matching_Brackets\obj\Debug\netcoreapp3.1\4_Matching_Brackets.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\4_Matching_Brackets\obj\Debug\netcoreapp3.1\4_Matching_Brackets.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\4_Matching_Brackets\obj\Debug\netcoreapp3.1\4_Matching_Brackets.dll
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\4_Matching_Brackets\obj\Debug\netcoreapp3.1\4_Matching_Brackets.pdb
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\4_Matching_Brackets\obj\Debug\netcoreapp3.1\4_Matching_Brackets.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Exercise_Stacks_And_Queues\12_Cups_And_Bottles\bin\Debug\netcoreapp3.1\12_Cups_And_Bottles.exe
+C:\Users\lenovo\source\repos\Exercise_Stacks_And_Queues\12_Cups_And_Bottles\bin\Debug\netcoreapp3.1\12_Cups_And_Bottles.deps.json
+C:\Users\lenovo\source\repos\Exercise_Stacks_And_Queues\12_Cups_And_Bottles\bin\Debug\netcoreapp3.1\12_Cups_And_Bottles.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercise_Stacks_And_Queues\12_Cups_And_Bottles\bin\Debug\netcoreapp3.1\12_Cups_And_Bottles.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercise_Stacks_And_Queues\12_Cups_And_Bottles\bin\Debug\netcoreapp3.1\12_Cups_And_Bottles.dll
+C:\Users\lenovo\source\repos\Exercise_Stacks_And_Queues\12_Cups_And_Bottles\bin\Debug\netcoreapp3.1\12_Cups_And_Bottles.pdb
+C:\Users\lenovo\source\repos\Exercise_Stacks_And_Queues\12_Cups_And_Bottles\obj\Debug\netcoreapp3.1\12_Cups_And_Bottles.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Exercise_Stacks_And_Queues\12_Cups_And_Bottles\obj\Debug\netcoreapp3.1\12_Cups_And_Bottles.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Stacks_And_Queues\12_Cups_And_Bottles\obj\Debug\netcoreapp3.1\12_Cups_And_Bottles.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercise_Stacks_And_Queues\12_Cups_And_Bottles\obj\Debug\netcoreapp3.1\12_Cups_And_Bottles.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Stacks_And_Queues\12_Cups_And_Bottles\obj\Debug\netcoreapp3.1\12_Cups_And_Bottles.dll
+C:\Users\lenovo\source\repos\Exercise_Stacks_And_Queues\12_Cups_And_Bottles\obj\Debug\netcoreapp3.1\12_Cups_And_Bottles.pdb
+C:\Users\lenovo\source\repos\Exercise_Stacks_And_Queues\12_Cups_And_Bottles\obj\Debug\netcoreapp3.1\12_Cups_And_Bottles.genruntimeconfig.cache

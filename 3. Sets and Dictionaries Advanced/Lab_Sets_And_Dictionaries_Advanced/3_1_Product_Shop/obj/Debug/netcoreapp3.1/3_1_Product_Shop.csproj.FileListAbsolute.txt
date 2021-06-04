@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Lab_Sets_And_Dictionaries_Advanced\3_1_Product_Shop\bin\Debug\netcoreapp3.1\3_1_Product_Shop.exe
+C:\Users\lenovo\source\repos\Lab_Sets_And_Dictionaries_Advanced\3_1_Product_Shop\bin\Debug\netcoreapp3.1\3_1_Product_Shop.deps.json
+C:\Users\lenovo\source\repos\Lab_Sets_And_Dictionaries_Advanced\3_1_Product_Shop\bin\Debug\netcoreapp3.1\3_1_Product_Shop.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lab_Sets_And_Dictionaries_Advanced\3_1_Product_Shop\bin\Debug\netcoreapp3.1\3_1_Product_Shop.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Lab_Sets_And_Dictionaries_Advanced\3_1_Product_Shop\bin\Debug\netcoreapp3.1\3_1_Product_Shop.dll
+C:\Users\lenovo\source\repos\Lab_Sets_And_Dictionaries_Advanced\3_1_Product_Shop\bin\Debug\netcoreapp3.1\3_1_Product_Shop.pdb
+C:\Users\lenovo\source\repos\Lab_Sets_And_Dictionaries_Advanced\3_1_Product_Shop\obj\Debug\netcoreapp3.1\3_1_Product_Shop.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Lab_Sets_And_Dictionaries_Advanced\3_1_Product_Shop\obj\Debug\netcoreapp3.1\3_1_Product_Shop.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lab_Sets_And_Dictionaries_Advanced\3_1_Product_Shop\obj\Debug\netcoreapp3.1\3_1_Product_Shop.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lab_Sets_And_Dictionaries_Advanced\3_1_Product_Shop\obj\Debug\netcoreapp3.1\3_1_Product_Shop.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lab_Sets_And_Dictionaries_Advanced\3_1_Product_Shop\obj\Debug\netcoreapp3.1\3_1_Product_Shop.dll
+C:\Users\lenovo\source\repos\Lab_Sets_And_Dictionaries_Advanced\3_1_Product_Shop\obj\Debug\netcoreapp3.1\3_1_Product_Shop.pdb
+C:\Users\lenovo\source\repos\Lab_Sets_And_Dictionaries_Advanced\3_1_Product_Shop\obj\Debug\netcoreapp3.1\3_1_Product_Shop.genruntimeconfig.cache

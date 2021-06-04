@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\6_Supermarket\bin\Debug\netcoreapp3.1\6_Supermarket.exe
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\6_Supermarket\bin\Debug\netcoreapp3.1\6_Supermarket.deps.json
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\6_Supermarket\bin\Debug\netcoreapp3.1\6_Supermarket.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\6_Supermarket\bin\Debug\netcoreapp3.1\6_Supermarket.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\6_Supermarket\bin\Debug\netcoreapp3.1\6_Supermarket.dll
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\6_Supermarket\bin\Debug\netcoreapp3.1\6_Supermarket.pdb
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\6_Supermarket\obj\Debug\netcoreapp3.1\6_Supermarket.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\6_Supermarket\obj\Debug\netcoreapp3.1\6_Supermarket.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\6_Supermarket\obj\Debug\netcoreapp3.1\6_Supermarket.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\6_Supermarket\obj\Debug\netcoreapp3.1\6_Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\6_Supermarket\obj\Debug\netcoreapp3.1\6_Supermarket.dll
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\6_Supermarket\obj\Debug\netcoreapp3.1\6_Supermarket.pdb
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\6_Supermarket\obj\Debug\netcoreapp3.1\6_Supermarket.genruntimeconfig.cache

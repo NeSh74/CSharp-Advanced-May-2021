@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\8_Bombs\bin\Debug\netcoreapp3.1\8_Bombs.exe
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\8_Bombs\bin\Debug\netcoreapp3.1\8_Bombs.deps.json
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\8_Bombs\bin\Debug\netcoreapp3.1\8_Bombs.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\8_Bombs\bin\Debug\netcoreapp3.1\8_Bombs.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\8_Bombs\bin\Debug\netcoreapp3.1\8_Bombs.dll
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\8_Bombs\bin\Debug\netcoreapp3.1\8_Bombs.pdb
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\8_Bombs\obj\Debug\netcoreapp3.1\8_Bombs.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\8_Bombs\obj\Debug\netcoreapp3.1\8_Bombs.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\8_Bombs\obj\Debug\netcoreapp3.1\8_Bombs.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\8_Bombs\obj\Debug\netcoreapp3.1\8_Bombs.dll
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\8_Bombs\obj\Debug\netcoreapp3.1\8_Bombs.pdb
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\8_Bombs\obj\Debug\netcoreapp3.1\8_Bombs.genruntimeconfig.cache

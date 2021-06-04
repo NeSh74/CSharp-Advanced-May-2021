@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\5_Snake_Moves\bin\Debug\netcoreapp3.1\5_Snake_Moves.exe
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\5_Snake_Moves\bin\Debug\netcoreapp3.1\5_Snake_Moves.deps.json
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\5_Snake_Moves\bin\Debug\netcoreapp3.1\5_Snake_Moves.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\5_Snake_Moves\bin\Debug\netcoreapp3.1\5_Snake_Moves.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\5_Snake_Moves\bin\Debug\netcoreapp3.1\5_Snake_Moves.dll
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\5_Snake_Moves\bin\Debug\netcoreapp3.1\5_Snake_Moves.pdb
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\5_Snake_Moves\obj\Debug\netcoreapp3.1\5_Snake_Moves.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\5_Snake_Moves\obj\Debug\netcoreapp3.1\5_Snake_Moves.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\5_Snake_Moves\obj\Debug\netcoreapp3.1\5_Snake_Moves.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\5_Snake_Moves\obj\Debug\netcoreapp3.1\5_Snake_Moves.dll
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\5_Snake_Moves\obj\Debug\netcoreapp3.1\5_Snake_Moves.pdb
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\5_Snake_Moves\obj\Debug\netcoreapp3.1\5_Snake_Moves.genruntimeconfig.cache

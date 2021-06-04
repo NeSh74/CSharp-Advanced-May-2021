@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Exercises_Sets_And_Dictionaries_Advanced\7_1_The_V_Logger\bin\Debug\netcoreapp3.1\7_1_The_V_Logger.exe
+C:\Users\lenovo\source\repos\Exercises_Sets_And_Dictionaries_Advanced\7_1_The_V_Logger\bin\Debug\netcoreapp3.1\7_1_The_V_Logger.deps.json
+C:\Users\lenovo\source\repos\Exercises_Sets_And_Dictionaries_Advanced\7_1_The_V_Logger\bin\Debug\netcoreapp3.1\7_1_The_V_Logger.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercises_Sets_And_Dictionaries_Advanced\7_1_The_V_Logger\bin\Debug\netcoreapp3.1\7_1_The_V_Logger.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercises_Sets_And_Dictionaries_Advanced\7_1_The_V_Logger\bin\Debug\netcoreapp3.1\7_1_The_V_Logger.dll
+C:\Users\lenovo\source\repos\Exercises_Sets_And_Dictionaries_Advanced\7_1_The_V_Logger\bin\Debug\netcoreapp3.1\7_1_The_V_Logger.pdb
+C:\Users\lenovo\source\repos\Exercises_Sets_And_Dictionaries_Advanced\7_1_The_V_Logger\obj\Debug\netcoreapp3.1\7_1_The_V_Logger.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Exercises_Sets_And_Dictionaries_Advanced\7_1_The_V_Logger\obj\Debug\netcoreapp3.1\7_1_The_V_Logger.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercises_Sets_And_Dictionaries_Advanced\7_1_The_V_Logger\obj\Debug\netcoreapp3.1\7_1_The_V_Logger.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercises_Sets_And_Dictionaries_Advanced\7_1_The_V_Logger\obj\Debug\netcoreapp3.1\7_1_The_V_Logger.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercises_Sets_And_Dictionaries_Advanced\7_1_The_V_Logger\obj\Debug\netcoreapp3.1\7_1_The_V_Logger.dll
+C:\Users\lenovo\source\repos\Exercises_Sets_And_Dictionaries_Advanced\7_1_The_V_Logger\obj\Debug\netcoreapp3.1\7_1_The_V_Logger.pdb
+C:\Users\lenovo\source\repos\Exercises_Sets_And_Dictionaries_Advanced\7_1_The_V_Logger\obj\Debug\netcoreapp3.1\7_1_The_V_Logger.genruntimeconfig.cache

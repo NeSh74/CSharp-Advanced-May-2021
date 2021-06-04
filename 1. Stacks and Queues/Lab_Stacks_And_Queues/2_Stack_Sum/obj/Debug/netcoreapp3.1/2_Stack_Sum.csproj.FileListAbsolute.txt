@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\2_Stack_Sum\bin\Debug\netcoreapp3.1\2_Stack_Sum.exe
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\2_Stack_Sum\bin\Debug\netcoreapp3.1\2_Stack_Sum.deps.json
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\2_Stack_Sum\bin\Debug\netcoreapp3.1\2_Stack_Sum.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\2_Stack_Sum\bin\Debug\netcoreapp3.1\2_Stack_Sum.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\2_Stack_Sum\bin\Debug\netcoreapp3.1\2_Stack_Sum.dll
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\2_Stack_Sum\bin\Debug\netcoreapp3.1\2_Stack_Sum.pdb
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\2_Stack_Sum\obj\Debug\netcoreapp3.1\2_Stack_Sum.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\2_Stack_Sum\obj\Debug\netcoreapp3.1\2_Stack_Sum.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\2_Stack_Sum\obj\Debug\netcoreapp3.1\2_Stack_Sum.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\2_Stack_Sum\obj\Debug\netcoreapp3.1\2_Stack_Sum.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\2_Stack_Sum\obj\Debug\netcoreapp3.1\2_Stack_Sum.dll
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\2_Stack_Sum\obj\Debug\netcoreapp3.1\2_Stack_Sum.pdb
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\2_Stack_Sum\obj\Debug\netcoreapp3.1\2_Stack_Sum.genruntimeconfig.cache

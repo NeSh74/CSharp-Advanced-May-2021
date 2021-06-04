@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\2_2X2_Squares_In_Matrix\bin\Debug\netcoreapp3.1\2_2X2_Squares_In_Matrix.exe
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\2_2X2_Squares_In_Matrix\bin\Debug\netcoreapp3.1\2_2X2_Squares_In_Matrix.deps.json
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\2_2X2_Squares_In_Matrix\bin\Debug\netcoreapp3.1\2_2X2_Squares_In_Matrix.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\2_2X2_Squares_In_Matrix\bin\Debug\netcoreapp3.1\2_2X2_Squares_In_Matrix.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\2_2X2_Squares_In_Matrix\bin\Debug\netcoreapp3.1\2_2X2_Squares_In_Matrix.dll
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\2_2X2_Squares_In_Matrix\bin\Debug\netcoreapp3.1\2_2X2_Squares_In_Matrix.pdb
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\2_2X2_Squares_In_Matrix\obj\Debug\netcoreapp3.1\2_2X2_Squares_In_Matrix.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\2_2X2_Squares_In_Matrix\obj\Debug\netcoreapp3.1\2_2X2_Squares_In_Matrix.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\2_2X2_Squares_In_Matrix\obj\Debug\netcoreapp3.1\2_2X2_Squares_In_Matrix.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\2_2X2_Squares_In_Matrix\obj\Debug\netcoreapp3.1\2_2X2_Squares_In_Matrix.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\2_2X2_Squares_In_Matrix\obj\Debug\netcoreapp3.1\2_2X2_Squares_In_Matrix.dll
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\2_2X2_Squares_In_Matrix\obj\Debug\netcoreapp3.1\2_2X2_Squares_In_Matrix.pdb
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\2_2X2_Squares_In_Matrix\obj\Debug\netcoreapp3.1\2_2X2_Squares_In_Matrix.genruntimeconfig.cache

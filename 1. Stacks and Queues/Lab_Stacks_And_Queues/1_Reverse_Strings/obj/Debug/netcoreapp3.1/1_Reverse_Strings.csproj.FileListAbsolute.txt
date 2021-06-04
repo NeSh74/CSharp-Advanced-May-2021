@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\1_Reverse_Strings\bin\Debug\netcoreapp3.1\1_Reverse_Strings.exe
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\1_Reverse_Strings\bin\Debug\netcoreapp3.1\1_Reverse_Strings.deps.json
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\1_Reverse_Strings\bin\Debug\netcoreapp3.1\1_Reverse_Strings.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\1_Reverse_Strings\bin\Debug\netcoreapp3.1\1_Reverse_Strings.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\1_Reverse_Strings\bin\Debug\netcoreapp3.1\1_Reverse_Strings.dll
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\1_Reverse_Strings\bin\Debug\netcoreapp3.1\1_Reverse_Strings.pdb
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\1_Reverse_Strings\obj\Debug\netcoreapp3.1\1_Reverse_Strings.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\1_Reverse_Strings\obj\Debug\netcoreapp3.1\1_Reverse_Strings.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\1_Reverse_Strings\obj\Debug\netcoreapp3.1\1_Reverse_Strings.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\1_Reverse_Strings\obj\Debug\netcoreapp3.1\1_Reverse_Strings.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\1_Reverse_Strings\obj\Debug\netcoreapp3.1\1_Reverse_Strings.dll
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\1_Reverse_Strings\obj\Debug\netcoreapp3.1\1_Reverse_Strings.pdb
+C:\Users\lenovo\source\repos\Lab_Stacks_And_Queues\1_Reverse_Strings\obj\Debug\netcoreapp3.1\1_Reverse_Strings.genruntimeconfig.cache

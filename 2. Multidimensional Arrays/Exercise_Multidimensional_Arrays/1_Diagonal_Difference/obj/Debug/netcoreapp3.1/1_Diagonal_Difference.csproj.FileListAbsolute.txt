@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\1_Diagonal_Difference\bin\Debug\netcoreapp3.1\1_Diagonal_Difference.exe
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\1_Diagonal_Difference\bin\Debug\netcoreapp3.1\1_Diagonal_Difference.deps.json
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\1_Diagonal_Difference\bin\Debug\netcoreapp3.1\1_Diagonal_Difference.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\1_Diagonal_Difference\bin\Debug\netcoreapp3.1\1_Diagonal_Difference.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\1_Diagonal_Difference\bin\Debug\netcoreapp3.1\1_Diagonal_Difference.dll
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\1_Diagonal_Difference\bin\Debug\netcoreapp3.1\1_Diagonal_Difference.pdb
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\1_Diagonal_Difference\obj\Debug\netcoreapp3.1\1_Diagonal_Difference.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\1_Diagonal_Difference\obj\Debug\netcoreapp3.1\1_Diagonal_Difference.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\1_Diagonal_Difference\obj\Debug\netcoreapp3.1\1_Diagonal_Difference.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\1_Diagonal_Difference\obj\Debug\netcoreapp3.1\1_Diagonal_Difference.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\1_Diagonal_Difference\obj\Debug\netcoreapp3.1\1_Diagonal_Difference.dll
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\1_Diagonal_Difference\obj\Debug\netcoreapp3.1\1_Diagonal_Difference.pdb
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\1_Diagonal_Difference\obj\Debug\netcoreapp3.1\1_Diagonal_Difference.genruntimeconfig.cache

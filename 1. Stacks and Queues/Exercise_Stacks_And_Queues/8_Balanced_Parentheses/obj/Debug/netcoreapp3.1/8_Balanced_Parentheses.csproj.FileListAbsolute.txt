@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\Exercise_Stacks_And_Queues\8_Balanced_Parentheses\obj\Debug\netcoreapp3.1\8_Balanced_Parentheses.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Stacks_And_Queues\8_Balanced_Parentheses\obj\Debug\netcoreapp3.1\8_Balanced_Parentheses.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercise_Stacks_And_Queues\8_Balanced_Parentheses\obj\Debug\netcoreapp3.1\8_Balanced_Parentheses.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Stacks_And_Queues\8_Balanced_Parentheses\bin\Debug\netcoreapp3.1\8_Balanced_Parentheses.exe
+C:\Users\lenovo\source\repos\Exercise_Stacks_And_Queues\8_Balanced_Parentheses\bin\Debug\netcoreapp3.1\8_Balanced_Parentheses.deps.json
+C:\Users\lenovo\source\repos\Exercise_Stacks_And_Queues\8_Balanced_Parentheses\bin\Debug\netcoreapp3.1\8_Balanced_Parentheses.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercise_Stacks_And_Queues\8_Balanced_Parentheses\bin\Debug\netcoreapp3.1\8_Balanced_Parentheses.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercise_Stacks_And_Queues\8_Balanced_Parentheses\bin\Debug\netcoreapp3.1\8_Balanced_Parentheses.dll
+C:\Users\lenovo\source\repos\Exercise_Stacks_And_Queues\8_Balanced_Parentheses\bin\Debug\netcoreapp3.1\8_Balanced_Parentheses.pdb
+C:\Users\lenovo\source\repos\Exercise_Stacks_And_Queues\8_Balanced_Parentheses\obj\Debug\netcoreapp3.1\8_Balanced_Parentheses.dll
+C:\Users\lenovo\source\repos\Exercise_Stacks_And_Queues\8_Balanced_Parentheses\obj\Debug\netcoreapp3.1\8_Balanced_Parentheses.pdb
+C:\Users\lenovo\source\repos\Exercise_Stacks_And_Queues\8_Balanced_Parentheses\obj\Debug\netcoreapp3.1\8_Balanced_Parentheses.genruntimeconfig.cache

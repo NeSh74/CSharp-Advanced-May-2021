@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\4_2_Matrix_Shuffling\bin\Debug\netcoreapp3.1\4_2_Matrix_Shuffling.exe
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\4_2_Matrix_Shuffling\bin\Debug\netcoreapp3.1\4_2_Matrix_Shuffling.deps.json
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\4_2_Matrix_Shuffling\bin\Debug\netcoreapp3.1\4_2_Matrix_Shuffling.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\4_2_Matrix_Shuffling\bin\Debug\netcoreapp3.1\4_2_Matrix_Shuffling.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\4_2_Matrix_Shuffling\bin\Debug\netcoreapp3.1\4_2_Matrix_Shuffling.dll
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\4_2_Matrix_Shuffling\bin\Debug\netcoreapp3.1\4_2_Matrix_Shuffling.pdb
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\4_2_Matrix_Shuffling\obj\Debug\netcoreapp3.1\4_2_Matrix_Shuffling.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\4_2_Matrix_Shuffling\obj\Debug\netcoreapp3.1\4_2_Matrix_Shuffling.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\4_2_Matrix_Shuffling\obj\Debug\netcoreapp3.1\4_2_Matrix_Shuffling.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\4_2_Matrix_Shuffling\obj\Debug\netcoreapp3.1\4_2_Matrix_Shuffling.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\4_2_Matrix_Shuffling\obj\Debug\netcoreapp3.1\4_2_Matrix_Shuffling.dll
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\4_2_Matrix_Shuffling\obj\Debug\netcoreapp3.1\4_2_Matrix_Shuffling.pdb
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\4_2_Matrix_Shuffling\obj\Debug\netcoreapp3.1\4_2_Matrix_Shuffling.genruntimeconfig.cache

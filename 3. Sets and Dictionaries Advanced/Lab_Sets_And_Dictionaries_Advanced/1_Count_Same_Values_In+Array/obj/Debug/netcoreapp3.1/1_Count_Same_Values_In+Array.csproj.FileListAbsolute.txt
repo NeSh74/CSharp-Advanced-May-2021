@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Lab_Sets_And_Dictionaries_Advanced\1_Count_Same_Values_In+Array\bin\Debug\netcoreapp3.1\1_Count_Same_Values_In+Array.exe
+C:\Users\lenovo\source\repos\Lab_Sets_And_Dictionaries_Advanced\1_Count_Same_Values_In+Array\bin\Debug\netcoreapp3.1\1_Count_Same_Values_In+Array.deps.json
+C:\Users\lenovo\source\repos\Lab_Sets_And_Dictionaries_Advanced\1_Count_Same_Values_In+Array\bin\Debug\netcoreapp3.1\1_Count_Same_Values_In+Array.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lab_Sets_And_Dictionaries_Advanced\1_Count_Same_Values_In+Array\bin\Debug\netcoreapp3.1\1_Count_Same_Values_In+Array.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Lab_Sets_And_Dictionaries_Advanced\1_Count_Same_Values_In+Array\bin\Debug\netcoreapp3.1\1_Count_Same_Values_In+Array.dll
+C:\Users\lenovo\source\repos\Lab_Sets_And_Dictionaries_Advanced\1_Count_Same_Values_In+Array\bin\Debug\netcoreapp3.1\1_Count_Same_Values_In+Array.pdb
+C:\Users\lenovo\source\repos\Lab_Sets_And_Dictionaries_Advanced\1_Count_Same_Values_In+Array\obj\Debug\netcoreapp3.1\1_Count_Same_Values_In+Array.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Lab_Sets_And_Dictionaries_Advanced\1_Count_Same_Values_In+Array\obj\Debug\netcoreapp3.1\1_Count_Same_Values_In+Array.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lab_Sets_And_Dictionaries_Advanced\1_Count_Same_Values_In+Array\obj\Debug\netcoreapp3.1\1_Count_Same_Values_In+Array.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lab_Sets_And_Dictionaries_Advanced\1_Count_Same_Values_In+Array\obj\Debug\netcoreapp3.1\1_Count_Same_Values_In+Array.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lab_Sets_And_Dictionaries_Advanced\1_Count_Same_Values_In+Array\obj\Debug\netcoreapp3.1\1_Count_Same_Values_In+Array.dll
+C:\Users\lenovo\source\repos\Lab_Sets_And_Dictionaries_Advanced\1_Count_Same_Values_In+Array\obj\Debug\netcoreapp3.1\1_Count_Same_Values_In+Array.pdb
+C:\Users\lenovo\source\repos\Lab_Sets_And_Dictionaries_Advanced\1_Count_Same_Values_In+Array\obj\Debug\netcoreapp3.1\1_Count_Same_Values_In+Array.genruntimeconfig.cache

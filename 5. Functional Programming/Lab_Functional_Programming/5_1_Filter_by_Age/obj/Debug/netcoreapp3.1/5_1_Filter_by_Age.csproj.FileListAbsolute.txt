@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\Lab_Functional_Programming\5_1_Filter_by_Age\bin\Debug\netcoreapp3.1\5_1_Filter_by_Age.exe
+C:\Users\lenovo\source\repos\Lab_Functional_Programming\5_1_Filter_by_Age\bin\Debug\netcoreapp3.1\5_1_Filter_by_Age.deps.json
+C:\Users\lenovo\source\repos\Lab_Functional_Programming\5_1_Filter_by_Age\bin\Debug\netcoreapp3.1\5_1_Filter_by_Age.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lab_Functional_Programming\5_1_Filter_by_Age\bin\Debug\netcoreapp3.1\5_1_Filter_by_Age.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Lab_Functional_Programming\5_1_Filter_by_Age\bin\Debug\netcoreapp3.1\5_1_Filter_by_Age.dll
+C:\Users\lenovo\source\repos\Lab_Functional_Programming\5_1_Filter_by_Age\bin\Debug\netcoreapp3.1\5_1_Filter_by_Age.pdb
+C:\Users\lenovo\source\repos\Lab_Functional_Programming\5_1_Filter_by_Age\obj\Debug\netcoreapp3.1\5_1_Filter_by_Age.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lab_Functional_Programming\5_1_Filter_by_Age\obj\Debug\netcoreapp3.1\5_1_Filter_by_Age.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lab_Functional_Programming\5_1_Filter_by_Age\obj\Debug\netcoreapp3.1\5_1_Filter_by_Age.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lab_Functional_Programming\5_1_Filter_by_Age\obj\Debug\netcoreapp3.1\5_1_Filter_by_Age.dll
+C:\Users\lenovo\source\repos\Lab_Functional_Programming\5_1_Filter_by_Age\obj\Debug\netcoreapp3.1\5_1_Filter_by_Age.pdb
+C:\Users\lenovo\source\repos\Lab_Functional_Programming\5_1_Filter_by_Age\obj\Debug\netcoreapp3.1\5_1_Filter_by_Age.genruntimeconfig.cache

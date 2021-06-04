@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\6_Jagged_Array_Manipulator\bin\Debug\netcoreapp3.1\6_Jagged_Array_Manipulator.exe
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\6_Jagged_Array_Manipulator\bin\Debug\netcoreapp3.1\6_Jagged_Array_Manipulator.deps.json
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\6_Jagged_Array_Manipulator\bin\Debug\netcoreapp3.1\6_Jagged_Array_Manipulator.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\6_Jagged_Array_Manipulator\bin\Debug\netcoreapp3.1\6_Jagged_Array_Manipulator.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\6_Jagged_Array_Manipulator\bin\Debug\netcoreapp3.1\6_Jagged_Array_Manipulator.dll
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\6_Jagged_Array_Manipulator\bin\Debug\netcoreapp3.1\6_Jagged_Array_Manipulator.pdb
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\6_Jagged_Array_Manipulator\obj\Debug\netcoreapp3.1\6_Jagged_Array_Manipulator.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\6_Jagged_Array_Manipulator\obj\Debug\netcoreapp3.1\6_Jagged_Array_Manipulator.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\6_Jagged_Array_Manipulator\obj\Debug\netcoreapp3.1\6_Jagged_Array_Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\6_Jagged_Array_Manipulator\obj\Debug\netcoreapp3.1\6_Jagged_Array_Manipulator.dll
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\6_Jagged_Array_Manipulator\obj\Debug\netcoreapp3.1\6_Jagged_Array_Manipulator.pdb
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\6_Jagged_Array_Manipulator\obj\Debug\netcoreapp3.1\6_Jagged_Array_Manipulator.genruntimeconfig.cache

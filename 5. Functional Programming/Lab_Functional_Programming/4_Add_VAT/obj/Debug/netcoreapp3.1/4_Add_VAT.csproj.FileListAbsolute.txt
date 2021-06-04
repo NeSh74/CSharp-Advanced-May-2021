@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Lab_Functional_Programming\4_Add_VAT\bin\Debug\netcoreapp3.1\4_Add_VAT.exe
+C:\Users\lenovo\source\repos\Lab_Functional_Programming\4_Add_VAT\bin\Debug\netcoreapp3.1\4_Add_VAT.deps.json
+C:\Users\lenovo\source\repos\Lab_Functional_Programming\4_Add_VAT\bin\Debug\netcoreapp3.1\4_Add_VAT.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lab_Functional_Programming\4_Add_VAT\bin\Debug\netcoreapp3.1\4_Add_VAT.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Lab_Functional_Programming\4_Add_VAT\bin\Debug\netcoreapp3.1\4_Add_VAT.dll
+C:\Users\lenovo\source\repos\Lab_Functional_Programming\4_Add_VAT\bin\Debug\netcoreapp3.1\4_Add_VAT.pdb
+C:\Users\lenovo\source\repos\Lab_Functional_Programming\4_Add_VAT\obj\Debug\netcoreapp3.1\4_Add_VAT.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Lab_Functional_Programming\4_Add_VAT\obj\Debug\netcoreapp3.1\4_Add_VAT.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lab_Functional_Programming\4_Add_VAT\obj\Debug\netcoreapp3.1\4_Add_VAT.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lab_Functional_Programming\4_Add_VAT\obj\Debug\netcoreapp3.1\4_Add_VAT.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lab_Functional_Programming\4_Add_VAT\obj\Debug\netcoreapp3.1\4_Add_VAT.dll
+C:\Users\lenovo\source\repos\Lab_Functional_Programming\4_Add_VAT\obj\Debug\netcoreapp3.1\4_Add_VAT.pdb
+C:\Users\lenovo\source\repos\Lab_Functional_Programming\4_Add_VAT\obj\Debug\netcoreapp3.1\4_Add_VAT.genruntimeconfig.cache

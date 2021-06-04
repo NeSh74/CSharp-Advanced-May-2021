@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\3_1_Maximal_Sum\bin\Debug\netcoreapp3.1\3_1_Maximal_Sum.exe
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\3_1_Maximal_Sum\bin\Debug\netcoreapp3.1\3_1_Maximal_Sum.deps.json
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\3_1_Maximal_Sum\bin\Debug\netcoreapp3.1\3_1_Maximal_Sum.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\3_1_Maximal_Sum\bin\Debug\netcoreapp3.1\3_1_Maximal_Sum.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\3_1_Maximal_Sum\bin\Debug\netcoreapp3.1\3_1_Maximal_Sum.dll
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\3_1_Maximal_Sum\bin\Debug\netcoreapp3.1\3_1_Maximal_Sum.pdb
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\3_1_Maximal_Sum\obj\Debug\netcoreapp3.1\3_1_Maximal_Sum.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\3_1_Maximal_Sum\obj\Debug\netcoreapp3.1\3_1_Maximal_Sum.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\3_1_Maximal_Sum\obj\Debug\netcoreapp3.1\3_1_Maximal_Sum.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\3_1_Maximal_Sum\obj\Debug\netcoreapp3.1\3_1_Maximal_Sum.dll
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\3_1_Maximal_Sum\obj\Debug\netcoreapp3.1\3_1_Maximal_Sum.pdb
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\3_1_Maximal_Sum\obj\Debug\netcoreapp3.1\3_1_Maximal_Sum.genruntimeconfig.cache

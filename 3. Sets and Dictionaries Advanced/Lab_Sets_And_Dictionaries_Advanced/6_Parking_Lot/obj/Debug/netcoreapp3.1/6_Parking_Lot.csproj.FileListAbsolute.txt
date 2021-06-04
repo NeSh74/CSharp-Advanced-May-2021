@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Lab_Sets_And_Dictionaries_Advanced\6_Parking_Lot\bin\Debug\netcoreapp3.1\6_Parking_Lot.exe
+C:\Users\lenovo\source\repos\Lab_Sets_And_Dictionaries_Advanced\6_Parking_Lot\bin\Debug\netcoreapp3.1\6_Parking_Lot.deps.json
+C:\Users\lenovo\source\repos\Lab_Sets_And_Dictionaries_Advanced\6_Parking_Lot\bin\Debug\netcoreapp3.1\6_Parking_Lot.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lab_Sets_And_Dictionaries_Advanced\6_Parking_Lot\bin\Debug\netcoreapp3.1\6_Parking_Lot.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Lab_Sets_And_Dictionaries_Advanced\6_Parking_Lot\bin\Debug\netcoreapp3.1\6_Parking_Lot.dll
+C:\Users\lenovo\source\repos\Lab_Sets_And_Dictionaries_Advanced\6_Parking_Lot\bin\Debug\netcoreapp3.1\6_Parking_Lot.pdb
+C:\Users\lenovo\source\repos\Lab_Sets_And_Dictionaries_Advanced\6_Parking_Lot\obj\Debug\netcoreapp3.1\6_Parking_Lot.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Lab_Sets_And_Dictionaries_Advanced\6_Parking_Lot\obj\Debug\netcoreapp3.1\6_Parking_Lot.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lab_Sets_And_Dictionaries_Advanced\6_Parking_Lot\obj\Debug\netcoreapp3.1\6_Parking_Lot.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lab_Sets_And_Dictionaries_Advanced\6_Parking_Lot\obj\Debug\netcoreapp3.1\6_Parking_Lot.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lab_Sets_And_Dictionaries_Advanced\6_Parking_Lot\obj\Debug\netcoreapp3.1\6_Parking_Lot.dll
+C:\Users\lenovo\source\repos\Lab_Sets_And_Dictionaries_Advanced\6_Parking_Lot\obj\Debug\netcoreapp3.1\6_Parking_Lot.pdb
+C:\Users\lenovo\source\repos\Lab_Sets_And_Dictionaries_Advanced\6_Parking_Lot\obj\Debug\netcoreapp3.1\6_Parking_Lot.genruntimeconfig.cache

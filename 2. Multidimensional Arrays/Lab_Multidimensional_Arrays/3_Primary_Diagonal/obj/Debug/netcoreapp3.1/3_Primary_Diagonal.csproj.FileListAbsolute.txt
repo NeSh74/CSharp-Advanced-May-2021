@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\Lab_Multidimensional_Arrays\3_Primary_Diagonal\bin\Debug\netcoreapp3.1\3_Primary_Diagonal.exe
+C:\Users\lenovo\source\repos\Lab_Multidimensional_Arrays\3_Primary_Diagonal\bin\Debug\netcoreapp3.1\3_Primary_Diagonal.deps.json
+C:\Users\lenovo\source\repos\Lab_Multidimensional_Arrays\3_Primary_Diagonal\bin\Debug\netcoreapp3.1\3_Primary_Diagonal.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lab_Multidimensional_Arrays\3_Primary_Diagonal\bin\Debug\netcoreapp3.1\3_Primary_Diagonal.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Lab_Multidimensional_Arrays\3_Primary_Diagonal\bin\Debug\netcoreapp3.1\3_Primary_Diagonal.dll
+C:\Users\lenovo\source\repos\Lab_Multidimensional_Arrays\3_Primary_Diagonal\bin\Debug\netcoreapp3.1\3_Primary_Diagonal.pdb
+C:\Users\lenovo\source\repos\Lab_Multidimensional_Arrays\3_Primary_Diagonal\obj\Debug\netcoreapp3.1\3_Primary_Diagonal.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lab_Multidimensional_Arrays\3_Primary_Diagonal\obj\Debug\netcoreapp3.1\3_Primary_Diagonal.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lab_Multidimensional_Arrays\3_Primary_Diagonal\obj\Debug\netcoreapp3.1\3_Primary_Diagonal.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lab_Multidimensional_Arrays\3_Primary_Diagonal\obj\Debug\netcoreapp3.1\3_Primary_Diagonal.dll
+C:\Users\lenovo\source\repos\Lab_Multidimensional_Arrays\3_Primary_Diagonal\obj\Debug\netcoreapp3.1\3_Primary_Diagonal.pdb
+C:\Users\lenovo\source\repos\Lab_Multidimensional_Arrays\3_Primary_Diagonal\obj\Debug\netcoreapp3.1\3_Primary_Diagonal.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "7_SoftUni_Party/1.0.0": {
+        "runtime": {
+          "7_SoftUni_Party.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "7_SoftUni_Party/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

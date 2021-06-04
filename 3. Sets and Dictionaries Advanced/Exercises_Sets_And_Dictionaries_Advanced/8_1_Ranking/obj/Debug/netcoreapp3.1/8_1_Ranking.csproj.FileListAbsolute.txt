@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Exercises_Sets_And_Dictionaries_Advanced\8_1_Ranking\bin\Debug\netcoreapp3.1\8_1_Ranking.exe
+C:\Users\lenovo\source\repos\Exercises_Sets_And_Dictionaries_Advanced\8_1_Ranking\bin\Debug\netcoreapp3.1\8_1_Ranking.deps.json
+C:\Users\lenovo\source\repos\Exercises_Sets_And_Dictionaries_Advanced\8_1_Ranking\bin\Debug\netcoreapp3.1\8_1_Ranking.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercises_Sets_And_Dictionaries_Advanced\8_1_Ranking\bin\Debug\netcoreapp3.1\8_1_Ranking.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercises_Sets_And_Dictionaries_Advanced\8_1_Ranking\bin\Debug\netcoreapp3.1\8_1_Ranking.dll
+C:\Users\lenovo\source\repos\Exercises_Sets_And_Dictionaries_Advanced\8_1_Ranking\bin\Debug\netcoreapp3.1\8_1_Ranking.pdb
+C:\Users\lenovo\source\repos\Exercises_Sets_And_Dictionaries_Advanced\8_1_Ranking\obj\Debug\netcoreapp3.1\8_1_Ranking.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Exercises_Sets_And_Dictionaries_Advanced\8_1_Ranking\obj\Debug\netcoreapp3.1\8_1_Ranking.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercises_Sets_And_Dictionaries_Advanced\8_1_Ranking\obj\Debug\netcoreapp3.1\8_1_Ranking.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercises_Sets_And_Dictionaries_Advanced\8_1_Ranking\obj\Debug\netcoreapp3.1\8_1_Ranking.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercises_Sets_And_Dictionaries_Advanced\8_1_Ranking\obj\Debug\netcoreapp3.1\8_1_Ranking.dll
+C:\Users\lenovo\source\repos\Exercises_Sets_And_Dictionaries_Advanced\8_1_Ranking\obj\Debug\netcoreapp3.1\8_1_Ranking.pdb
+C:\Users\lenovo\source\repos\Exercises_Sets_And_Dictionaries_Advanced\8_1_Ranking\obj\Debug\netcoreapp3.1\8_1_Ranking.genruntimeconfig.cache

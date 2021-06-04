@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\9_Miner\bin\Debug\netcoreapp3.1\9_Miner.exe
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\9_Miner\bin\Debug\netcoreapp3.1\9_Miner.deps.json
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\9_Miner\bin\Debug\netcoreapp3.1\9_Miner.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\9_Miner\bin\Debug\netcoreapp3.1\9_Miner.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\9_Miner\bin\Debug\netcoreapp3.1\9_Miner.dll
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\9_Miner\bin\Debug\netcoreapp3.1\9_Miner.pdb
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\9_Miner\obj\Debug\netcoreapp3.1\9_Miner.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\9_Miner\obj\Debug\netcoreapp3.1\9_Miner.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\9_Miner\obj\Debug\netcoreapp3.1\9_Miner.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\9_Miner\obj\Debug\netcoreapp3.1\9_Miner.dll
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\9_Miner\obj\Debug\netcoreapp3.1\9_Miner.pdb
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\9_Miner\obj\Debug\netcoreapp3.1\9_Miner.genruntimeconfig.cache

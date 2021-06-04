@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\7_Knight_Game\bin\Debug\netcoreapp3.1\7_Knight_Game.exe
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\7_Knight_Game\bin\Debug\netcoreapp3.1\7_Knight_Game.deps.json
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\7_Knight_Game\bin\Debug\netcoreapp3.1\7_Knight_Game.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\7_Knight_Game\bin\Debug\netcoreapp3.1\7_Knight_Game.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\7_Knight_Game\bin\Debug\netcoreapp3.1\7_Knight_Game.dll
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\7_Knight_Game\bin\Debug\netcoreapp3.1\7_Knight_Game.pdb
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\7_Knight_Game\obj\Debug\netcoreapp3.1\7_Knight_Game.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\7_Knight_Game\obj\Debug\netcoreapp3.1\7_Knight_Game.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\7_Knight_Game\obj\Debug\netcoreapp3.1\7_Knight_Game.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\7_Knight_Game\obj\Debug\netcoreapp3.1\7_Knight_Game.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\7_Knight_Game\obj\Debug\netcoreapp3.1\7_Knight_Game.dll
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\7_Knight_Game\obj\Debug\netcoreapp3.1\7_Knight_Game.pdb
+C:\Users\lenovo\source\repos\Exercise_Multidimensional_Arrays\7_Knight_Game\obj\Debug\netcoreapp3.1\7_Knight_Game.genruntimeconfig.cache
