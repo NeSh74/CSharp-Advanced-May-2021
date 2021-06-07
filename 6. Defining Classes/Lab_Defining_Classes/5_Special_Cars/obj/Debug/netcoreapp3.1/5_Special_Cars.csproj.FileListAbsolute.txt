@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Lab_Defining_Classes\5_Special_Cars\bin\Debug\netcoreapp3.1\5_Special_Cars.exe
+C:\Users\lenovo\source\repos\Lab_Defining_Classes\5_Special_Cars\bin\Debug\netcoreapp3.1\5_Special_Cars.deps.json
+C:\Users\lenovo\source\repos\Lab_Defining_Classes\5_Special_Cars\bin\Debug\netcoreapp3.1\5_Special_Cars.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lab_Defining_Classes\5_Special_Cars\bin\Debug\netcoreapp3.1\5_Special_Cars.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Lab_Defining_Classes\5_Special_Cars\bin\Debug\netcoreapp3.1\5_Special_Cars.dll
+C:\Users\lenovo\source\repos\Lab_Defining_Classes\5_Special_Cars\bin\Debug\netcoreapp3.1\5_Special_Cars.pdb
+C:\Users\lenovo\source\repos\Lab_Defining_Classes\5_Special_Cars\obj\Debug\netcoreapp3.1\5_Special_Cars.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Lab_Defining_Classes\5_Special_Cars\obj\Debug\netcoreapp3.1\5_Special_Cars.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lab_Defining_Classes\5_Special_Cars\obj\Debug\netcoreapp3.1\5_Special_Cars.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lab_Defining_Classes\5_Special_Cars\obj\Debug\netcoreapp3.1\5_Special_Cars.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lab_Defining_Classes\5_Special_Cars\obj\Debug\netcoreapp3.1\5_Special_Cars.dll
+C:\Users\lenovo\source\repos\Lab_Defining_Classes\5_Special_Cars\obj\Debug\netcoreapp3.1\5_Special_Cars.pdb
+C:\Users\lenovo\source\repos\Lab_Defining_Classes\5_Special_Cars\obj\Debug\netcoreapp3.1\5_Special_Cars.genruntimeconfig.cache

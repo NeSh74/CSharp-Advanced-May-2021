@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Lab_Defining_Classes\4.Car_Engine_And_Tires\bin\Debug\netcoreapp3.1\4.Car_Engine_And_Tires.exe
+C:\Users\lenovo\source\repos\Lab_Defining_Classes\4.Car_Engine_And_Tires\bin\Debug\netcoreapp3.1\4.Car_Engine_And_Tires.deps.json
+C:\Users\lenovo\source\repos\Lab_Defining_Classes\4.Car_Engine_And_Tires\bin\Debug\netcoreapp3.1\4.Car_Engine_And_Tires.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lab_Defining_Classes\4.Car_Engine_And_Tires\bin\Debug\netcoreapp3.1\4.Car_Engine_And_Tires.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Lab_Defining_Classes\4.Car_Engine_And_Tires\bin\Debug\netcoreapp3.1\4.Car_Engine_And_Tires.dll
+C:\Users\lenovo\source\repos\Lab_Defining_Classes\4.Car_Engine_And_Tires\bin\Debug\netcoreapp3.1\4.Car_Engine_And_Tires.pdb
+C:\Users\lenovo\source\repos\Lab_Defining_Classes\4.Car_Engine_And_Tires\obj\Debug\netcoreapp3.1\4.Car_Engine_And_Tires.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Lab_Defining_Classes\4.Car_Engine_And_Tires\obj\Debug\netcoreapp3.1\4.Car_Engine_And_Tires.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lab_Defining_Classes\4.Car_Engine_And_Tires\obj\Debug\netcoreapp3.1\4.Car_Engine_And_Tires.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lab_Defining_Classes\4.Car_Engine_And_Tires\obj\Debug\netcoreapp3.1\4.Car_Engine_And_Tires.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lab_Defining_Classes\4.Car_Engine_And_Tires\obj\Debug\netcoreapp3.1\4.Car_Engine_And_Tires.dll
+C:\Users\lenovo\source\repos\Lab_Defining_Classes\4.Car_Engine_And_Tires\obj\Debug\netcoreapp3.1\4.Car_Engine_And_Tires.pdb
+C:\Users\lenovo\source\repos\Lab_Defining_Classes\4.Car_Engine_And_Tires\obj\Debug\netcoreapp3.1\4.Car_Engine_And_Tires.genruntimeconfig.cache

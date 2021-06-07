@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\6.Folder_Size\bin\Debug\netcoreapp3.1\6.Folder_Size.exe
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\6.Folder_Size\bin\Debug\netcoreapp3.1\6.Folder_Size.deps.json
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\6.Folder_Size\bin\Debug\netcoreapp3.1\6.Folder_Size.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\6.Folder_Size\bin\Debug\netcoreapp3.1\6.Folder_Size.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\6.Folder_Size\bin\Debug\netcoreapp3.1\6.Folder_Size.dll
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\6.Folder_Size\bin\Debug\netcoreapp3.1\6.Folder_Size.pdb
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\6.Folder_Size\obj\Debug\netcoreapp3.1\6.Folder_Size.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\6.Folder_Size\obj\Debug\netcoreapp3.1\6.Folder_Size.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\6.Folder_Size\obj\Debug\netcoreapp3.1\6.Folder_Size.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\6.Folder_Size\obj\Debug\netcoreapp3.1\6.Folder_Size.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\6.Folder_Size\obj\Debug\netcoreapp3.1\6.Folder_Size.dll
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\6.Folder_Size\obj\Debug\netcoreapp3.1\6.Folder_Size.pdb
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\6.Folder_Size\obj\Debug\netcoreapp3.1\6.Folder_Size.genruntimeconfig.cache

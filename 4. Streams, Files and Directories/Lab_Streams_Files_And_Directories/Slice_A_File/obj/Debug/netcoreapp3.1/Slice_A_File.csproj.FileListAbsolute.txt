@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\Slice_A_File\bin\Debug\netcoreapp3.1\Slice_A_File.exe
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\Slice_A_File\bin\Debug\netcoreapp3.1\Slice_A_File.deps.json
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\Slice_A_File\bin\Debug\netcoreapp3.1\Slice_A_File.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\Slice_A_File\bin\Debug\netcoreapp3.1\Slice_A_File.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\Slice_A_File\bin\Debug\netcoreapp3.1\Slice_A_File.dll
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\Slice_A_File\bin\Debug\netcoreapp3.1\Slice_A_File.pdb
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\Slice_A_File\obj\Debug\netcoreapp3.1\Slice_A_File.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\Slice_A_File\obj\Debug\netcoreapp3.1\Slice_A_File.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\Slice_A_File\obj\Debug\netcoreapp3.1\Slice_A_File.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\Slice_A_File\obj\Debug\netcoreapp3.1\Slice_A_File.dll
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\Slice_A_File\obj\Debug\netcoreapp3.1\Slice_A_File.pdb
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\Slice_A_File\obj\Debug\netcoreapp3.1\Slice_A_File.genruntimeconfig.cache

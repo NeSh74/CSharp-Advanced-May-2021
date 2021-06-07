@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\StreamsAndFiles\bin\Debug\netcoreapp3.1\StreamsAndFiles.exe
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\StreamsAndFiles\bin\Debug\netcoreapp3.1\StreamsAndFiles.deps.json
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\StreamsAndFiles\bin\Debug\netcoreapp3.1\StreamsAndFiles.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\StreamsAndFiles\bin\Debug\netcoreapp3.1\StreamsAndFiles.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\StreamsAndFiles\bin\Debug\netcoreapp3.1\StreamsAndFiles.dll
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\StreamsAndFiles\bin\Debug\netcoreapp3.1\StreamsAndFiles.pdb
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\StreamsAndFiles\obj\Debug\netcoreapp3.1\StreamsAndFiles.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\StreamsAndFiles\obj\Debug\netcoreapp3.1\StreamsAndFiles.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\StreamsAndFiles\obj\Debug\netcoreapp3.1\StreamsAndFiles.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\StreamsAndFiles\obj\Debug\netcoreapp3.1\StreamsAndFiles.dll
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\StreamsAndFiles\obj\Debug\netcoreapp3.1\StreamsAndFiles.pdb
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\StreamsAndFiles\obj\Debug\netcoreapp3.1\StreamsAndFiles.genruntimeconfig.cache

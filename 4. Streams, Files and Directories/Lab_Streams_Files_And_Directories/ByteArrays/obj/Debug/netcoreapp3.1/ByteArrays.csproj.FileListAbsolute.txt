@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\ByteArrays\bin\Debug\netcoreapp3.1\ByteArrays.exe
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\ByteArrays\bin\Debug\netcoreapp3.1\ByteArrays.deps.json
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\ByteArrays\bin\Debug\netcoreapp3.1\ByteArrays.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\ByteArrays\bin\Debug\netcoreapp3.1\ByteArrays.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\ByteArrays\bin\Debug\netcoreapp3.1\ByteArrays.dll
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\ByteArrays\bin\Debug\netcoreapp3.1\ByteArrays.pdb
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\ByteArrays\obj\Debug\netcoreapp3.1\ByteArrays.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\ByteArrays\obj\Debug\netcoreapp3.1\ByteArrays.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\ByteArrays\obj\Debug\netcoreapp3.1\ByteArrays.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\ByteArrays\obj\Debug\netcoreapp3.1\ByteArrays.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\ByteArrays\obj\Debug\netcoreapp3.1\ByteArrays.dll
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\ByteArrays\obj\Debug\netcoreapp3.1\ByteArrays.pdb
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\ByteArrays\obj\Debug\netcoreapp3.1\ByteArrays.genruntimeconfig.cache

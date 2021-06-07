@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\StreamUnderNeath\bin\Debug\netcoreapp3.1\StreamUnderNeath.exe
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\StreamUnderNeath\bin\Debug\netcoreapp3.1\StreamUnderNeath.deps.json
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\StreamUnderNeath\bin\Debug\netcoreapp3.1\StreamUnderNeath.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\StreamUnderNeath\bin\Debug\netcoreapp3.1\StreamUnderNeath.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\StreamUnderNeath\bin\Debug\netcoreapp3.1\StreamUnderNeath.dll
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\StreamUnderNeath\bin\Debug\netcoreapp3.1\StreamUnderNeath.pdb
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\StreamUnderNeath\obj\Debug\netcoreapp3.1\StreamUnderNeath.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\StreamUnderNeath\obj\Debug\netcoreapp3.1\StreamUnderNeath.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\StreamUnderNeath\obj\Debug\netcoreapp3.1\StreamUnderNeath.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\StreamUnderNeath\obj\Debug\netcoreapp3.1\StreamUnderNeath.dll
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\StreamUnderNeath\obj\Debug\netcoreapp3.1\StreamUnderNeath.pdb
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\StreamUnderNeath\obj\Debug\netcoreapp3.1\StreamUnderNeath.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\StreamUnderNeath\obj\Debug\netcoreapp3.1\StreamUnderNeath.csprojAssemblyReference.cache

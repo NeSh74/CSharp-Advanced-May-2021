@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\2_1_Line_Numbers\bin\Debug\netcoreapp3.1\2_1_Line_Numbers.exe
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\2_1_Line_Numbers\bin\Debug\netcoreapp3.1\2_1_Line_Numbers.deps.json
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\2_1_Line_Numbers\bin\Debug\netcoreapp3.1\2_1_Line_Numbers.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\2_1_Line_Numbers\bin\Debug\netcoreapp3.1\2_1_Line_Numbers.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\2_1_Line_Numbers\bin\Debug\netcoreapp3.1\2_1_Line_Numbers.dll
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\2_1_Line_Numbers\bin\Debug\netcoreapp3.1\2_1_Line_Numbers.pdb
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\2_1_Line_Numbers\obj\Debug\netcoreapp3.1\2_1_Line_Numbers.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\2_1_Line_Numbers\obj\Debug\netcoreapp3.1\2_1_Line_Numbers.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\2_1_Line_Numbers\obj\Debug\netcoreapp3.1\2_1_Line_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\2_1_Line_Numbers\obj\Debug\netcoreapp3.1\2_1_Line_Numbers.dll
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\2_1_Line_Numbers\obj\Debug\netcoreapp3.1\2_1_Line_Numbers.pdb
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\2_1_Line_Numbers\obj\Debug\netcoreapp3.1\2_1_Line_Numbers.genruntimeconfig.cache

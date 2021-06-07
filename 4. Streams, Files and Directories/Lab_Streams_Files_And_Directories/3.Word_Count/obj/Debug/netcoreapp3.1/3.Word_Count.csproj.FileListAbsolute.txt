@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\3.Word_Count\bin\Debug\netcoreapp3.1\3.Word_Count.exe
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\3.Word_Count\bin\Debug\netcoreapp3.1\3.Word_Count.deps.json
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\3.Word_Count\bin\Debug\netcoreapp3.1\3.Word_Count.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\3.Word_Count\bin\Debug\netcoreapp3.1\3.Word_Count.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\3.Word_Count\bin\Debug\netcoreapp3.1\3.Word_Count.dll
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\3.Word_Count\bin\Debug\netcoreapp3.1\3.Word_Count.pdb
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\3.Word_Count\obj\Debug\netcoreapp3.1\3.Word_Count.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\3.Word_Count\obj\Debug\netcoreapp3.1\3.Word_Count.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\3.Word_Count\obj\Debug\netcoreapp3.1\3.Word_Count.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\3.Word_Count\obj\Debug\netcoreapp3.1\3.Word_Count.dll
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\3.Word_Count\obj\Debug\netcoreapp3.1\3.Word_Count.pdb
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\3.Word_Count\obj\Debug\netcoreapp3.1\3.Word_Count.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\3.Word_Count\bin\Debug\netcoreapp3.1\text.txt
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\3.Word_Count\bin\Debug\netcoreapp3.1\words.txt
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\3.Word_Count\obj\Debug\netcoreapp3.1\3.Word_Count.csprojAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\4.Merge_Files\bin\Debug\netcoreapp3.1\4.Merge_Files.exe
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\4.Merge_Files\bin\Debug\netcoreapp3.1\FileOne.txt
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\4.Merge_Files\bin\Debug\netcoreapp3.1\FileTwo.txt
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\4.Merge_Files\bin\Debug\netcoreapp3.1\4.Merge_Files.deps.json
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\4.Merge_Files\bin\Debug\netcoreapp3.1\4.Merge_Files.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\4.Merge_Files\bin\Debug\netcoreapp3.1\4.Merge_Files.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\4.Merge_Files\bin\Debug\netcoreapp3.1\4.Merge_Files.dll
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\4.Merge_Files\bin\Debug\netcoreapp3.1\4.Merge_Files.pdb
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\4.Merge_Files\obj\Debug\netcoreapp3.1\4.Merge_Files.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\4.Merge_Files\obj\Debug\netcoreapp3.1\4.Merge_Files.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\4.Merge_Files\obj\Debug\netcoreapp3.1\4.Merge_Files.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\4.Merge_Files\obj\Debug\netcoreapp3.1\4.Merge_Files.dll
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\4.Merge_Files\obj\Debug\netcoreapp3.1\4.Merge_Files.pdb
+C:\Users\lenovo\source\repos\Lab_Streams_Files_And_Directories\4.Merge_Files\obj\Debug\netcoreapp3.1\4.Merge_Files.genruntimeconfig.cache
