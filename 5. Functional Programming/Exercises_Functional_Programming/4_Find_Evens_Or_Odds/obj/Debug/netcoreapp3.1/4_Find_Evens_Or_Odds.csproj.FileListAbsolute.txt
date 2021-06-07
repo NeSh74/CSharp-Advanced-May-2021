@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\4_Find_Evens_Or_Odds\bin\Debug\netcoreapp3.1\4_Find_Evens_Or_Odds.exe
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\4_Find_Evens_Or_Odds\bin\Debug\netcoreapp3.1\4_Find_Evens_Or_Odds.deps.json
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\4_Find_Evens_Or_Odds\bin\Debug\netcoreapp3.1\4_Find_Evens_Or_Odds.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\4_Find_Evens_Or_Odds\bin\Debug\netcoreapp3.1\4_Find_Evens_Or_Odds.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\4_Find_Evens_Or_Odds\bin\Debug\netcoreapp3.1\4_Find_Evens_Or_Odds.dll
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\4_Find_Evens_Or_Odds\bin\Debug\netcoreapp3.1\4_Find_Evens_Or_Odds.pdb
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\4_Find_Evens_Or_Odds\obj\Debug\netcoreapp3.1\4_Find_Evens_Or_Odds.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\4_Find_Evens_Or_Odds\obj\Debug\netcoreapp3.1\4_Find_Evens_Or_Odds.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\4_Find_Evens_Or_Odds\obj\Debug\netcoreapp3.1\4_Find_Evens_Or_Odds.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\4_Find_Evens_Or_Odds\obj\Debug\netcoreapp3.1\4_Find_Evens_Or_Odds.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\4_Find_Evens_Or_Odds\obj\Debug\netcoreapp3.1\4_Find_Evens_Or_Odds.dll
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\4_Find_Evens_Or_Odds\obj\Debug\netcoreapp3.1\4_Find_Evens_Or_Odds.pdb
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\4_Find_Evens_Or_Odds\obj\Debug\netcoreapp3.1\4_Find_Evens_Or_Odds.genruntimeconfig.cache

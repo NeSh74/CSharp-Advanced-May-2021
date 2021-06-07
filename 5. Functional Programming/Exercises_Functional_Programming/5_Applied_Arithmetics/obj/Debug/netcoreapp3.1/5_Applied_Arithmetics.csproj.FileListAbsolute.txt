@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\5_Applied_Arithmetics\bin\Debug\netcoreapp3.1\5_Applied_Arithmetics.exe
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\5_Applied_Arithmetics\bin\Debug\netcoreapp3.1\5_Applied_Arithmetics.deps.json
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\5_Applied_Arithmetics\bin\Debug\netcoreapp3.1\5_Applied_Arithmetics.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\5_Applied_Arithmetics\bin\Debug\netcoreapp3.1\5_Applied_Arithmetics.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\5_Applied_Arithmetics\bin\Debug\netcoreapp3.1\5_Applied_Arithmetics.dll
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\5_Applied_Arithmetics\bin\Debug\netcoreapp3.1\5_Applied_Arithmetics.pdb
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\5_Applied_Arithmetics\obj\Debug\netcoreapp3.1\5_Applied_Arithmetics.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\5_Applied_Arithmetics\obj\Debug\netcoreapp3.1\5_Applied_Arithmetics.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\5_Applied_Arithmetics\obj\Debug\netcoreapp3.1\5_Applied_Arithmetics.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\5_Applied_Arithmetics\obj\Debug\netcoreapp3.1\5_Applied_Arithmetics.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\5_Applied_Arithmetics\obj\Debug\netcoreapp3.1\5_Applied_Arithmetics.dll
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\5_Applied_Arithmetics\obj\Debug\netcoreapp3.1\5_Applied_Arithmetics.pdb
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\5_Applied_Arithmetics\obj\Debug\netcoreapp3.1\5_Applied_Arithmetics.genruntimeconfig.cache

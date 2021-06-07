@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\2_Knights_Of_Honor\bin\Debug\netcoreapp3.1\2_Knights_Of_Honor.exe
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\2_Knights_Of_Honor\bin\Debug\netcoreapp3.1\2_Knights_Of_Honor.deps.json
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\2_Knights_Of_Honor\bin\Debug\netcoreapp3.1\2_Knights_Of_Honor.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\2_Knights_Of_Honor\bin\Debug\netcoreapp3.1\2_Knights_Of_Honor.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\2_Knights_Of_Honor\bin\Debug\netcoreapp3.1\2_Knights_Of_Honor.dll
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\2_Knights_Of_Honor\bin\Debug\netcoreapp3.1\2_Knights_Of_Honor.pdb
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\2_Knights_Of_Honor\obj\Debug\netcoreapp3.1\2_Knights_Of_Honor.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\2_Knights_Of_Honor\obj\Debug\netcoreapp3.1\2_Knights_Of_Honor.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\2_Knights_Of_Honor\obj\Debug\netcoreapp3.1\2_Knights_Of_Honor.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\2_Knights_Of_Honor\obj\Debug\netcoreapp3.1\2_Knights_Of_Honor.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\2_Knights_Of_Honor\obj\Debug\netcoreapp3.1\2_Knights_Of_Honor.dll
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\2_Knights_Of_Honor\obj\Debug\netcoreapp3.1\2_Knights_Of_Honor.pdb
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\2_Knights_Of_Honor\obj\Debug\netcoreapp3.1\2_Knights_Of_Honor.genruntimeconfig.cache

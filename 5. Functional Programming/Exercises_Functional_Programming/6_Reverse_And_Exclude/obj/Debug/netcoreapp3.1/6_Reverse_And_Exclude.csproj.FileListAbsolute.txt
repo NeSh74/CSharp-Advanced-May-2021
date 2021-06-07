@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\6_Reverse_And_Exclude\bin\Debug\netcoreapp3.1\6_Reverse_And_Exclude.exe
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\6_Reverse_And_Exclude\bin\Debug\netcoreapp3.1\6_Reverse_And_Exclude.deps.json
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\6_Reverse_And_Exclude\bin\Debug\netcoreapp3.1\6_Reverse_And_Exclude.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\6_Reverse_And_Exclude\bin\Debug\netcoreapp3.1\6_Reverse_And_Exclude.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\6_Reverse_And_Exclude\bin\Debug\netcoreapp3.1\6_Reverse_And_Exclude.dll
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\6_Reverse_And_Exclude\bin\Debug\netcoreapp3.1\6_Reverse_And_Exclude.pdb
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\6_Reverse_And_Exclude\obj\Debug\netcoreapp3.1\6_Reverse_And_Exclude.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\6_Reverse_And_Exclude\obj\Debug\netcoreapp3.1\6_Reverse_And_Exclude.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\6_Reverse_And_Exclude\obj\Debug\netcoreapp3.1\6_Reverse_And_Exclude.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\6_Reverse_And_Exclude\obj\Debug\netcoreapp3.1\6_Reverse_And_Exclude.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\6_Reverse_And_Exclude\obj\Debug\netcoreapp3.1\6_Reverse_And_Exclude.dll
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\6_Reverse_And_Exclude\obj\Debug\netcoreapp3.1\6_Reverse_And_Exclude.pdb
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\6_Reverse_And_Exclude\obj\Debug\netcoreapp3.1\6_Reverse_And_Exclude.genruntimeconfig.cache

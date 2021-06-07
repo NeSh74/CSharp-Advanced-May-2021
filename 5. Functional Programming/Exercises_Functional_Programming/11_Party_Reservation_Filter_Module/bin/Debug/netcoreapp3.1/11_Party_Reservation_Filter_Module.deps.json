@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "11_Party_Reservation_Filter_Module/1.0.0": {
+        "runtime": {
+          "11_Party_Reservation_Filter_Module.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "11_Party_Reservation_Filter_Module/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

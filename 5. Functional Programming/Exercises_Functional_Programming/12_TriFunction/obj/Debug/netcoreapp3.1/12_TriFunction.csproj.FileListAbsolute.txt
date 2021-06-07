@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\12_TriFunction\bin\Debug\netcoreapp3.1\12_TriFunction.exe
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\12_TriFunction\bin\Debug\netcoreapp3.1\12_TriFunction.deps.json
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\12_TriFunction\bin\Debug\netcoreapp3.1\12_TriFunction.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\12_TriFunction\bin\Debug\netcoreapp3.1\12_TriFunction.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\12_TriFunction\bin\Debug\netcoreapp3.1\12_TriFunction.dll
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\12_TriFunction\bin\Debug\netcoreapp3.1\12_TriFunction.pdb
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\12_TriFunction\obj\Debug\netcoreapp3.1\12_TriFunction.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\12_TriFunction\obj\Debug\netcoreapp3.1\12_TriFunction.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\12_TriFunction\obj\Debug\netcoreapp3.1\12_TriFunction.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\12_TriFunction\obj\Debug\netcoreapp3.1\12_TriFunction.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\12_TriFunction\obj\Debug\netcoreapp3.1\12_TriFunction.dll
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\12_TriFunction\obj\Debug\netcoreapp3.1\12_TriFunction.pdb
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\12_TriFunction\obj\Debug\netcoreapp3.1\12_TriFunction.genruntimeconfig.cache

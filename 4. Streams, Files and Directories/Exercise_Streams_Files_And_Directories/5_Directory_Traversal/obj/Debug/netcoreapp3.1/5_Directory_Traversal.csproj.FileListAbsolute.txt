@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\5_Directory_Traversal\bin\Debug\netcoreapp3.1\5_Directory_Traversal.exe
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\5_Directory_Traversal\bin\Debug\netcoreapp3.1\5_Directory_Traversal.deps.json
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\5_Directory_Traversal\bin\Debug\netcoreapp3.1\5_Directory_Traversal.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\5_Directory_Traversal\bin\Debug\netcoreapp3.1\5_Directory_Traversal.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\5_Directory_Traversal\bin\Debug\netcoreapp3.1\5_Directory_Traversal.dll
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\5_Directory_Traversal\bin\Debug\netcoreapp3.1\5_Directory_Traversal.pdb
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\5_Directory_Traversal\obj\Debug\netcoreapp3.1\5_Directory_Traversal.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\5_Directory_Traversal\obj\Debug\netcoreapp3.1\5_Directory_Traversal.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\5_Directory_Traversal\obj\Debug\netcoreapp3.1\5_Directory_Traversal.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\5_Directory_Traversal\obj\Debug\netcoreapp3.1\5_Directory_Traversal.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\5_Directory_Traversal\obj\Debug\netcoreapp3.1\5_Directory_Traversal.dll
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\5_Directory_Traversal\obj\Debug\netcoreapp3.1\5_Directory_Traversal.pdb
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\5_Directory_Traversal\obj\Debug\netcoreapp3.1\5_Directory_Traversal.genruntimeconfig.cache

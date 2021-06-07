@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\8_Custom_Comparator\bin\Debug\netcoreapp3.1\8_Custom_Comparator.exe
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\8_Custom_Comparator\bin\Debug\netcoreapp3.1\8_Custom_Comparator.deps.json
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\8_Custom_Comparator\bin\Debug\netcoreapp3.1\8_Custom_Comparator.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\8_Custom_Comparator\bin\Debug\netcoreapp3.1\8_Custom_Comparator.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\8_Custom_Comparator\bin\Debug\netcoreapp3.1\8_Custom_Comparator.dll
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\8_Custom_Comparator\bin\Debug\netcoreapp3.1\8_Custom_Comparator.pdb
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\8_Custom_Comparator\obj\Debug\netcoreapp3.1\8_Custom_Comparator.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\8_Custom_Comparator\obj\Debug\netcoreapp3.1\8_Custom_Comparator.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\8_Custom_Comparator\obj\Debug\netcoreapp3.1\8_Custom_Comparator.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\8_Custom_Comparator\obj\Debug\netcoreapp3.1\8_Custom_Comparator.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\8_Custom_Comparator\obj\Debug\netcoreapp3.1\8_Custom_Comparator.dll
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\8_Custom_Comparator\obj\Debug\netcoreapp3.1\8_Custom_Comparator.pdb
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\8_Custom_Comparator\obj\Debug\netcoreapp3.1\8_Custom_Comparator.genruntimeconfig.cache

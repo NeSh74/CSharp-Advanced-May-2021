@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\7_Predicate_For_Names\bin\Debug\netcoreapp3.1\7_Predicate_For_Names.exe
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\7_Predicate_For_Names\bin\Debug\netcoreapp3.1\7_Predicate_For_Names.deps.json
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\7_Predicate_For_Names\bin\Debug\netcoreapp3.1\7_Predicate_For_Names.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\7_Predicate_For_Names\bin\Debug\netcoreapp3.1\7_Predicate_For_Names.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\7_Predicate_For_Names\bin\Debug\netcoreapp3.1\7_Predicate_For_Names.dll
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\7_Predicate_For_Names\bin\Debug\netcoreapp3.1\7_Predicate_For_Names.pdb
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\7_Predicate_For_Names\obj\Debug\netcoreapp3.1\7_Predicate_For_Names.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\7_Predicate_For_Names\obj\Debug\netcoreapp3.1\7_Predicate_For_Names.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\7_Predicate_For_Names\obj\Debug\netcoreapp3.1\7_Predicate_For_Names.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\7_Predicate_For_Names\obj\Debug\netcoreapp3.1\7_Predicate_For_Names.dll
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\7_Predicate_For_Names\obj\Debug\netcoreapp3.1\7_Predicate_For_Names.pdb
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\7_Predicate_For_Names\obj\Debug\netcoreapp3.1\7_Predicate_For_Names.genruntimeconfig.cache

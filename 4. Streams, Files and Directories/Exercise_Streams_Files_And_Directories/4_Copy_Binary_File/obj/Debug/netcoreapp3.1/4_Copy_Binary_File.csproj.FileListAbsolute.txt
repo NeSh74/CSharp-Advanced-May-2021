@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\4_Copy_Binary_File\bin\Debug\netcoreapp3.1\4_Copy_Binary_File.exe
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\4_Copy_Binary_File\bin\Debug\netcoreapp3.1\copyMe.png
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\4_Copy_Binary_File\bin\Debug\netcoreapp3.1\4_Copy_Binary_File.deps.json
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\4_Copy_Binary_File\bin\Debug\netcoreapp3.1\4_Copy_Binary_File.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\4_Copy_Binary_File\bin\Debug\netcoreapp3.1\4_Copy_Binary_File.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\4_Copy_Binary_File\bin\Debug\netcoreapp3.1\4_Copy_Binary_File.dll
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\4_Copy_Binary_File\bin\Debug\netcoreapp3.1\4_Copy_Binary_File.pdb
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\4_Copy_Binary_File\obj\Debug\netcoreapp3.1\4_Copy_Binary_File.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\4_Copy_Binary_File\obj\Debug\netcoreapp3.1\4_Copy_Binary_File.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\4_Copy_Binary_File\obj\Debug\netcoreapp3.1\4_Copy_Binary_File.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\4_Copy_Binary_File\obj\Debug\netcoreapp3.1\4_Copy_Binary_File.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\4_Copy_Binary_File\obj\Debug\netcoreapp3.1\4_Copy_Binary_File.dll
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\4_Copy_Binary_File\obj\Debug\netcoreapp3.1\4_Copy_Binary_File.pdb
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\4_Copy_Binary_File\obj\Debug\netcoreapp3.1\4_Copy_Binary_File.genruntimeconfig.cache

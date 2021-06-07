@@ -1,0 +1,16 @@
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\3_Word_Count\bin\Debug\netcoreapp3.1\3_Word_Count.exe
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\3_Word_Count\bin\Debug\netcoreapp3.1\expectedResult.txt
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\3_Word_Count\bin\Debug\netcoreapp3.1\text.txt
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\3_Word_Count\bin\Debug\netcoreapp3.1\words.txt
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\3_Word_Count\bin\Debug\netcoreapp3.1\3_Word_Count.deps.json
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\3_Word_Count\bin\Debug\netcoreapp3.1\3_Word_Count.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\3_Word_Count\bin\Debug\netcoreapp3.1\3_Word_Count.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\3_Word_Count\bin\Debug\netcoreapp3.1\3_Word_Count.dll
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\3_Word_Count\bin\Debug\netcoreapp3.1\3_Word_Count.pdb
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\3_Word_Count\obj\Debug\netcoreapp3.1\3_Word_Count.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\3_Word_Count\obj\Debug\netcoreapp3.1\3_Word_Count.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\3_Word_Count\obj\Debug\netcoreapp3.1\3_Word_Count.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\3_Word_Count\obj\Debug\netcoreapp3.1\3_Word_Count.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\3_Word_Count\obj\Debug\netcoreapp3.1\3_Word_Count.dll
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\3_Word_Count\obj\Debug\netcoreapp3.1\3_Word_Count.pdb
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\3_Word_Count\obj\Debug\netcoreapp3.1\3_Word_Count.genruntimeconfig.cache

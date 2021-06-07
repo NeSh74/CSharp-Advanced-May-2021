@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\9_List_Of_Predicates\bin\Debug\netcoreapp3.1\9_List_Of_Predicates.exe
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\9_List_Of_Predicates\bin\Debug\netcoreapp3.1\9_List_Of_Predicates.deps.json
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\9_List_Of_Predicates\bin\Debug\netcoreapp3.1\9_List_Of_Predicates.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\9_List_Of_Predicates\bin\Debug\netcoreapp3.1\9_List_Of_Predicates.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\9_List_Of_Predicates\bin\Debug\netcoreapp3.1\9_List_Of_Predicates.dll
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\9_List_Of_Predicates\bin\Debug\netcoreapp3.1\9_List_Of_Predicates.pdb
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\9_List_Of_Predicates\obj\Debug\netcoreapp3.1\9_List_Of_Predicates.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\9_List_Of_Predicates\obj\Debug\netcoreapp3.1\9_List_Of_Predicates.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\9_List_Of_Predicates\obj\Debug\netcoreapp3.1\9_List_Of_Predicates.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\9_List_Of_Predicates\obj\Debug\netcoreapp3.1\9_List_Of_Predicates.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\9_List_Of_Predicates\obj\Debug\netcoreapp3.1\9_List_Of_Predicates.dll
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\9_List_Of_Predicates\obj\Debug\netcoreapp3.1\9_List_Of_Predicates.pdb
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\9_List_Of_Predicates\obj\Debug\netcoreapp3.1\9_List_Of_Predicates.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\1_Even_Lines\bin\Debug\netcoreapp3.1\1_Even_Lines.exe
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\1_Even_Lines\bin\Debug\netcoreapp3.1\1_Even_Lines.deps.json
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\1_Even_Lines\bin\Debug\netcoreapp3.1\1_Even_Lines.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\1_Even_Lines\bin\Debug\netcoreapp3.1\1_Even_Lines.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\1_Even_Lines\bin\Debug\netcoreapp3.1\1_Even_Lines.dll
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\1_Even_Lines\bin\Debug\netcoreapp3.1\1_Even_Lines.pdb
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\1_Even_Lines\obj\Debug\netcoreapp3.1\1_Even_Lines.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\1_Even_Lines\obj\Debug\netcoreapp3.1\1_Even_Lines.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\1_Even_Lines\obj\Debug\netcoreapp3.1\1_Even_Lines.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\1_Even_Lines\obj\Debug\netcoreapp3.1\1_Even_Lines.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\1_Even_Lines\obj\Debug\netcoreapp3.1\1_Even_Lines.dll
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\1_Even_Lines\obj\Debug\netcoreapp3.1\1_Even_Lines.pdb
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\1_Even_Lines\obj\Debug\netcoreapp3.1\1_Even_Lines.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\1_Even_Lines\bin\Debug\netcoreapp3.1\text.txt

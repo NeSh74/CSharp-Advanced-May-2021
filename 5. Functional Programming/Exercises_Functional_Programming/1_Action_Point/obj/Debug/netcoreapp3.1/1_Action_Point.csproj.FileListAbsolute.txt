@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\1_Action_Point\bin\Debug\netcoreapp3.1\1_Action_Point.exe
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\1_Action_Point\bin\Debug\netcoreapp3.1\1_Action_Point.deps.json
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\1_Action_Point\bin\Debug\netcoreapp3.1\1_Action_Point.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\1_Action_Point\bin\Debug\netcoreapp3.1\1_Action_Point.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\1_Action_Point\bin\Debug\netcoreapp3.1\1_Action_Point.dll
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\1_Action_Point\bin\Debug\netcoreapp3.1\1_Action_Point.pdb
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\1_Action_Point\obj\Debug\netcoreapp3.1\1_Action_Point.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\1_Action_Point\obj\Debug\netcoreapp3.1\1_Action_Point.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\1_Action_Point\obj\Debug\netcoreapp3.1\1_Action_Point.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\1_Action_Point\obj\Debug\netcoreapp3.1\1_Action_Point.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\1_Action_Point\obj\Debug\netcoreapp3.1\1_Action_Point.dll
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\1_Action_Point\obj\Debug\netcoreapp3.1\1_Action_Point.pdb
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\1_Action_Point\obj\Debug\netcoreapp3.1\1_Action_Point.genruntimeconfig.cache

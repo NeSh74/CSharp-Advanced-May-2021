@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\6_Zip_And_Extract\bin\Debug\netcoreapp3.1\6_Zip_And_Extract.exe
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\6_Zip_And_Extract\bin\Debug\netcoreapp3.1\6_Zip_And_Extract.deps.json
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\6_Zip_And_Extract\bin\Debug\netcoreapp3.1\6_Zip_And_Extract.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\6_Zip_And_Extract\bin\Debug\netcoreapp3.1\6_Zip_And_Extract.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\6_Zip_And_Extract\bin\Debug\netcoreapp3.1\6_Zip_And_Extract.dll
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\6_Zip_And_Extract\bin\Debug\netcoreapp3.1\6_Zip_And_Extract.pdb
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\6_Zip_And_Extract\obj\Debug\netcoreapp3.1\6_Zip_And_Extract.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\6_Zip_And_Extract\obj\Debug\netcoreapp3.1\6_Zip_And_Extract.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\6_Zip_And_Extract\obj\Debug\netcoreapp3.1\6_Zip_And_Extract.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\6_Zip_And_Extract\obj\Debug\netcoreapp3.1\6_Zip_And_Extract.dll
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\6_Zip_And_Extract\obj\Debug\netcoreapp3.1\6_Zip_And_Extract.pdb
+C:\Users\lenovo\source\repos\Exercise_Streams_Files_And_Directories\6_Zip_And_Extract\obj\Debug\netcoreapp3.1\6_Zip_And_Extract.genruntimeconfig.cache

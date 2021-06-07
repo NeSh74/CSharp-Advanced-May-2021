@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\3_Custom_Min_Function\bin\Debug\netcoreapp3.1\3_Custom_Min_Function.exe
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\3_Custom_Min_Function\bin\Debug\netcoreapp3.1\3_Custom_Min_Function.deps.json
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\3_Custom_Min_Function\bin\Debug\netcoreapp3.1\3_Custom_Min_Function.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\3_Custom_Min_Function\bin\Debug\netcoreapp3.1\3_Custom_Min_Function.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\3_Custom_Min_Function\bin\Debug\netcoreapp3.1\3_Custom_Min_Function.dll
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\3_Custom_Min_Function\bin\Debug\netcoreapp3.1\3_Custom_Min_Function.pdb
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\3_Custom_Min_Function\obj\Debug\netcoreapp3.1\3_Custom_Min_Function.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\3_Custom_Min_Function\obj\Debug\netcoreapp3.1\3_Custom_Min_Function.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\3_Custom_Min_Function\obj\Debug\netcoreapp3.1\3_Custom_Min_Function.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\3_Custom_Min_Function\obj\Debug\netcoreapp3.1\3_Custom_Min_Function.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\3_Custom_Min_Function\obj\Debug\netcoreapp3.1\3_Custom_Min_Function.dll
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\3_Custom_Min_Function\obj\Debug\netcoreapp3.1\3_Custom_Min_Function.pdb
+C:\Users\lenovo\source\repos\Exercises_Functional_Programming\3_Custom_Min_Function\obj\Debug\netcoreapp3.1\3_Custom_Min_Function.genruntimeconfig.cache
