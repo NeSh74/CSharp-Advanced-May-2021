@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\1.Define_A_Class_Person\bin\Debug\netcoreapp3.1\1.Define_A_Class_Person.exe
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\1.Define_A_Class_Person\bin\Debug\netcoreapp3.1\1.Define_A_Class_Person.deps.json
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\1.Define_A_Class_Person\bin\Debug\netcoreapp3.1\1.Define_A_Class_Person.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\1.Define_A_Class_Person\bin\Debug\netcoreapp3.1\1.Define_A_Class_Person.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\1.Define_A_Class_Person\bin\Debug\netcoreapp3.1\1.Define_A_Class_Person.dll
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\1.Define_A_Class_Person\bin\Debug\netcoreapp3.1\1.Define_A_Class_Person.pdb
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\1.Define_A_Class_Person\obj\Debug\netcoreapp3.1\1.Define_A_Class_Person.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\1.Define_A_Class_Person\obj\Debug\netcoreapp3.1\1.Define_A_Class_Person.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\1.Define_A_Class_Person\obj\Debug\netcoreapp3.1\1.Define_A_Class_Person.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\1.Define_A_Class_Person\obj\Debug\netcoreapp3.1\1.Define_A_Class_Person.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\1.Define_A_Class_Person\obj\Debug\netcoreapp3.1\1.Define_A_Class_Person.dll
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\1.Define_A_Class_Person\obj\Debug\netcoreapp3.1\1.Define_A_Class_Person.pdb
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\1.Define_A_Class_Person\obj\Debug\netcoreapp3.1\1.Define_A_Class_Person.genruntimeconfig.cache

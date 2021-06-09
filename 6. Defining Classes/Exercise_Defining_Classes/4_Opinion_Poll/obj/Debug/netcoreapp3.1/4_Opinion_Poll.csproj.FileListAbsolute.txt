@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\4_Opinion_Poll\bin\Debug\netcoreapp3.1\4_Opinion_Poll.exe
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\4_Opinion_Poll\bin\Debug\netcoreapp3.1\4_Opinion_Poll.deps.json
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\4_Opinion_Poll\bin\Debug\netcoreapp3.1\4_Opinion_Poll.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\4_Opinion_Poll\bin\Debug\netcoreapp3.1\4_Opinion_Poll.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\4_Opinion_Poll\bin\Debug\netcoreapp3.1\4_Opinion_Poll.dll
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\4_Opinion_Poll\bin\Debug\netcoreapp3.1\4_Opinion_Poll.pdb
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\4_Opinion_Poll\obj\Debug\netcoreapp3.1\4_Opinion_Poll.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\4_Opinion_Poll\obj\Debug\netcoreapp3.1\4_Opinion_Poll.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\4_Opinion_Poll\obj\Debug\netcoreapp3.1\4_Opinion_Poll.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\4_Opinion_Poll\obj\Debug\netcoreapp3.1\4_Opinion_Poll.dll
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\4_Opinion_Poll\obj\Debug\netcoreapp3.1\4_Opinion_Poll.pdb
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\4_Opinion_Poll\obj\Debug\netcoreapp3.1\4_Opinion_Poll.genruntimeconfig.cache

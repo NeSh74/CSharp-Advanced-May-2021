@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\6.Speed_Racing\bin\Debug\netcoreapp3.1\6.Speed_Racing.exe
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\6.Speed_Racing\bin\Debug\netcoreapp3.1\6.Speed_Racing.deps.json
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\6.Speed_Racing\bin\Debug\netcoreapp3.1\6.Speed_Racing.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\6.Speed_Racing\bin\Debug\netcoreapp3.1\6.Speed_Racing.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\6.Speed_Racing\bin\Debug\netcoreapp3.1\6.Speed_Racing.dll
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\6.Speed_Racing\bin\Debug\netcoreapp3.1\6.Speed_Racing.pdb
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\6.Speed_Racing\obj\Debug\netcoreapp3.1\6.Speed_Racing.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\6.Speed_Racing\obj\Debug\netcoreapp3.1\6.Speed_Racing.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\6.Speed_Racing\obj\Debug\netcoreapp3.1\6.Speed_Racing.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\6.Speed_Racing\obj\Debug\netcoreapp3.1\6.Speed_Racing.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\6.Speed_Racing\obj\Debug\netcoreapp3.1\6.Speed_Racing.dll
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\6.Speed_Racing\obj\Debug\netcoreapp3.1\6.Speed_Racing.pdb
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\6.Speed_Racing\obj\Debug\netcoreapp3.1\6.Speed_Racing.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\3.Oldest_Family_Member\bin\Debug\netcoreapp3.1\3.Oldest_Family_Member.exe
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\3.Oldest_Family_Member\bin\Debug\netcoreapp3.1\3.Oldest_Family_Member.deps.json
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\3.Oldest_Family_Member\bin\Debug\netcoreapp3.1\3.Oldest_Family_Member.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\3.Oldest_Family_Member\bin\Debug\netcoreapp3.1\3.Oldest_Family_Member.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\3.Oldest_Family_Member\bin\Debug\netcoreapp3.1\3.Oldest_Family_Member.dll
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\3.Oldest_Family_Member\bin\Debug\netcoreapp3.1\3.Oldest_Family_Member.pdb
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\3.Oldest_Family_Member\obj\Debug\netcoreapp3.1\3.Oldest_Family_Member.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\3.Oldest_Family_Member\obj\Debug\netcoreapp3.1\3.Oldest_Family_Member.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\3.Oldest_Family_Member\obj\Debug\netcoreapp3.1\3.Oldest_Family_Member.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\3.Oldest_Family_Member\obj\Debug\netcoreapp3.1\3.Oldest_Family_Member.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\3.Oldest_Family_Member\obj\Debug\netcoreapp3.1\3.Oldest_Family_Member.dll
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\3.Oldest_Family_Member\obj\Debug\netcoreapp3.1\3.Oldest_Family_Member.pdb
+C:\Users\lenovo\source\repos\Exercise_Defining_Classes\3.Oldest_Family_Member\obj\Debug\netcoreapp3.1\3.Oldest_Family_Member.genruntimeconfig.cache
