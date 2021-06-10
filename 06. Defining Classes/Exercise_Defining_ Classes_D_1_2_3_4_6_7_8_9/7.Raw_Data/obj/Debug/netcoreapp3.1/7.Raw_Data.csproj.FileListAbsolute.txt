@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Exercise_Defining_ Classes_D\7.Raw_Data\bin\Debug\netcoreapp3.1\7.Raw_Data.exe
+C:\Users\lenovo\source\repos\Exercise_Defining_ Classes_D\7.Raw_Data\bin\Debug\netcoreapp3.1\7.Raw_Data.deps.json
+C:\Users\lenovo\source\repos\Exercise_Defining_ Classes_D\7.Raw_Data\bin\Debug\netcoreapp3.1\7.Raw_Data.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercise_Defining_ Classes_D\7.Raw_Data\bin\Debug\netcoreapp3.1\7.Raw_Data.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercise_Defining_ Classes_D\7.Raw_Data\bin\Debug\netcoreapp3.1\7.Raw_Data.dll
+C:\Users\lenovo\source\repos\Exercise_Defining_ Classes_D\7.Raw_Data\bin\Debug\netcoreapp3.1\7.Raw_Data.pdb
+C:\Users\lenovo\source\repos\Exercise_Defining_ Classes_D\7.Raw_Data\obj\Debug\netcoreapp3.1\7.Raw_Data.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Exercise_Defining_ Classes_D\7.Raw_Data\obj\Debug\netcoreapp3.1\7.Raw_Data.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Defining_ Classes_D\7.Raw_Data\obj\Debug\netcoreapp3.1\7.Raw_Data.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercise_Defining_ Classes_D\7.Raw_Data\obj\Debug\netcoreapp3.1\7.Raw_Data.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Defining_ Classes_D\7.Raw_Data\obj\Debug\netcoreapp3.1\7.Raw_Data.dll
+C:\Users\lenovo\source\repos\Exercise_Defining_ Classes_D\7.Raw_Data\obj\Debug\netcoreapp3.1\7.Raw_Data.pdb
+C:\Users\lenovo\source\repos\Exercise_Defining_ Classes_D\7.Raw_Data\obj\Debug\netcoreapp3.1\7.Raw_Data.genruntimeconfig.cache

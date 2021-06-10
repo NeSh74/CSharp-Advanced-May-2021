@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Exercise_Defining_ Classes_D\9.Pokemon_Trainer\bin\Debug\netcoreapp3.1\9.Pokemon_Trainer.exe
+C:\Users\lenovo\source\repos\Exercise_Defining_ Classes_D\9.Pokemon_Trainer\bin\Debug\netcoreapp3.1\9.Pokemon_Trainer.deps.json
+C:\Users\lenovo\source\repos\Exercise_Defining_ Classes_D\9.Pokemon_Trainer\bin\Debug\netcoreapp3.1\9.Pokemon_Trainer.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercise_Defining_ Classes_D\9.Pokemon_Trainer\bin\Debug\netcoreapp3.1\9.Pokemon_Trainer.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercise_Defining_ Classes_D\9.Pokemon_Trainer\bin\Debug\netcoreapp3.1\9.Pokemon_Trainer.dll
+C:\Users\lenovo\source\repos\Exercise_Defining_ Classes_D\9.Pokemon_Trainer\bin\Debug\netcoreapp3.1\9.Pokemon_Trainer.pdb
+C:\Users\lenovo\source\repos\Exercise_Defining_ Classes_D\9.Pokemon_Trainer\obj\Debug\netcoreapp3.1\9.Pokemon_Trainer.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Exercise_Defining_ Classes_D\9.Pokemon_Trainer\obj\Debug\netcoreapp3.1\9.Pokemon_Trainer.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Defining_ Classes_D\9.Pokemon_Trainer\obj\Debug\netcoreapp3.1\9.Pokemon_Trainer.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercise_Defining_ Classes_D\9.Pokemon_Trainer\obj\Debug\netcoreapp3.1\9.Pokemon_Trainer.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Defining_ Classes_D\9.Pokemon_Trainer\obj\Debug\netcoreapp3.1\9.Pokemon_Trainer.dll
+C:\Users\lenovo\source\repos\Exercise_Defining_ Classes_D\9.Pokemon_Trainer\obj\Debug\netcoreapp3.1\9.Pokemon_Trainer.pdb
+C:\Users\lenovo\source\repos\Exercise_Defining_ Classes_D\9.Pokemon_Trainer\obj\Debug\netcoreapp3.1\9.Pokemon_Trainer.genruntimeconfig.cache

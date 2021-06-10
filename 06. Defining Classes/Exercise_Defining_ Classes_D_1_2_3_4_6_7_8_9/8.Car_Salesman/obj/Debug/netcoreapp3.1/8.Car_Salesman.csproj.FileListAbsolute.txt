@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Exercise_Defining_ Classes_D\8.Car_Salesman\bin\Debug\netcoreapp3.1\8.Car_Salesman.exe
+C:\Users\lenovo\source\repos\Exercise_Defining_ Classes_D\8.Car_Salesman\bin\Debug\netcoreapp3.1\8.Car_Salesman.deps.json
+C:\Users\lenovo\source\repos\Exercise_Defining_ Classes_D\8.Car_Salesman\bin\Debug\netcoreapp3.1\8.Car_Salesman.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercise_Defining_ Classes_D\8.Car_Salesman\bin\Debug\netcoreapp3.1\8.Car_Salesman.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercise_Defining_ Classes_D\8.Car_Salesman\bin\Debug\netcoreapp3.1\8.Car_Salesman.dll
+C:\Users\lenovo\source\repos\Exercise_Defining_ Classes_D\8.Car_Salesman\bin\Debug\netcoreapp3.1\8.Car_Salesman.pdb
+C:\Users\lenovo\source\repos\Exercise_Defining_ Classes_D\8.Car_Salesman\obj\Debug\netcoreapp3.1\8.Car_Salesman.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Exercise_Defining_ Classes_D\8.Car_Salesman\obj\Debug\netcoreapp3.1\8.Car_Salesman.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Defining_ Classes_D\8.Car_Salesman\obj\Debug\netcoreapp3.1\8.Car_Salesman.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercise_Defining_ Classes_D\8.Car_Salesman\obj\Debug\netcoreapp3.1\8.Car_Salesman.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Defining_ Classes_D\8.Car_Salesman\obj\Debug\netcoreapp3.1\8.Car_Salesman.dll
+C:\Users\lenovo\source\repos\Exercise_Defining_ Classes_D\8.Car_Salesman\obj\Debug\netcoreapp3.1\8.Car_Salesman.pdb
+C:\Users\lenovo\source\repos\Exercise_Defining_ Classes_D\8.Car_Salesman\obj\Debug\netcoreapp3.1\8.Car_Salesman.genruntimeconfig.cache
