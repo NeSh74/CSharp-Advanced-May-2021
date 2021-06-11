@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Create_Custom_Data_Structures\Create_Custom_Data_Structures\bin\Debug\netcoreapp3.1\Create_Custom_Data_Structures.exe
+C:\Users\lenovo\source\repos\Create_Custom_Data_Structures\Create_Custom_Data_Structures\bin\Debug\netcoreapp3.1\Create_Custom_Data_Structures.deps.json
+C:\Users\lenovo\source\repos\Create_Custom_Data_Structures\Create_Custom_Data_Structures\bin\Debug\netcoreapp3.1\Create_Custom_Data_Structures.runtimeconfig.json
+C:\Users\lenovo\source\repos\Create_Custom_Data_Structures\Create_Custom_Data_Structures\bin\Debug\netcoreapp3.1\Create_Custom_Data_Structures.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Create_Custom_Data_Structures\Create_Custom_Data_Structures\bin\Debug\netcoreapp3.1\Create_Custom_Data_Structures.dll
+C:\Users\lenovo\source\repos\Create_Custom_Data_Structures\Create_Custom_Data_Structures\bin\Debug\netcoreapp3.1\Create_Custom_Data_Structures.pdb
+C:\Users\lenovo\source\repos\Create_Custom_Data_Structures\Create_Custom_Data_Structures\obj\Debug\netcoreapp3.1\Create_Custom_Data_Structures.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Create_Custom_Data_Structures\Create_Custom_Data_Structures\obj\Debug\netcoreapp3.1\Create_Custom_Data_Structures.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Create_Custom_Data_Structures\Create_Custom_Data_Structures\obj\Debug\netcoreapp3.1\Create_Custom_Data_Structures.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Create_Custom_Data_Structures\Create_Custom_Data_Structures\obj\Debug\netcoreapp3.1\Create_Custom_Data_Structures.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Create_Custom_Data_Structures\Create_Custom_Data_Structures\obj\Debug\netcoreapp3.1\Create_Custom_Data_Structures.dll
+C:\Users\lenovo\source\repos\Create_Custom_Data_Structures\Create_Custom_Data_Structures\obj\Debug\netcoreapp3.1\Create_Custom_Data_Structures.pdb
+C:\Users\lenovo\source\repos\Create_Custom_Data_Structures\Create_Custom_Data_Structures\obj\Debug\netcoreapp3.1\Create_Custom_Data_Structures.genruntimeconfig.cache

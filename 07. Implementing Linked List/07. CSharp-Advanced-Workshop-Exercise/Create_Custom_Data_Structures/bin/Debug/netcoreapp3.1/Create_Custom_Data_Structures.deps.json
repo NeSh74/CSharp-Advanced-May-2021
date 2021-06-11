@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Create_Custom_Data_Structures/1.0.0": {
+        "runtime": {
+          "Create_Custom_Data_Structures.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Create_Custom_Data_Structures/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
