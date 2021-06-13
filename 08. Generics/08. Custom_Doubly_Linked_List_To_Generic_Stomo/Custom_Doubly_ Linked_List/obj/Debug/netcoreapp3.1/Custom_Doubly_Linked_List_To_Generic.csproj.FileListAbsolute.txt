@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\07CSharp-Advanced-Workshop-Lab\Custom_Doubly_ Linked_List\bin\Debug\netcoreapp3.1\Custom_Doubly_Linked_List_To_Generic.exe
+C:\Users\lenovo\source\repos\07CSharp-Advanced-Workshop-Lab\Custom_Doubly_ Linked_List\bin\Debug\netcoreapp3.1\Custom_Doubly_Linked_List_To_Generic.deps.json
+C:\Users\lenovo\source\repos\07CSharp-Advanced-Workshop-Lab\Custom_Doubly_ Linked_List\bin\Debug\netcoreapp3.1\Custom_Doubly_Linked_List_To_Generic.runtimeconfig.json
+C:\Users\lenovo\source\repos\07CSharp-Advanced-Workshop-Lab\Custom_Doubly_ Linked_List\bin\Debug\netcoreapp3.1\Custom_Doubly_Linked_List_To_Generic.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\07CSharp-Advanced-Workshop-Lab\Custom_Doubly_ Linked_List\bin\Debug\netcoreapp3.1\Custom_Doubly_Linked_List_To_Generic.dll
+C:\Users\lenovo\source\repos\07CSharp-Advanced-Workshop-Lab\Custom_Doubly_ Linked_List\bin\Debug\netcoreapp3.1\Custom_Doubly_Linked_List_To_Generic.pdb
+C:\Users\lenovo\source\repos\07CSharp-Advanced-Workshop-Lab\Custom_Doubly_ Linked_List\bin\Debug\netcoreapp3.1\Custom_Doubly_ Linked_List.xml
+C:\Users\lenovo\source\repos\07CSharp-Advanced-Workshop-Lab\Custom_Doubly_ Linked_List\obj\Debug\netcoreapp3.1\Custom_Doubly_Linked_List_To_Generic.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\07CSharp-Advanced-Workshop-Lab\Custom_Doubly_ Linked_List\obj\Debug\netcoreapp3.1\Custom_Doubly_Linked_List_To_Generic.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\07CSharp-Advanced-Workshop-Lab\Custom_Doubly_ Linked_List\obj\Debug\netcoreapp3.1\Custom_Doubly_Linked_List_To_Generic.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\07CSharp-Advanced-Workshop-Lab\Custom_Doubly_ Linked_List\obj\Debug\netcoreapp3.1\Custom_Doubly_Linked_List_To_Generic.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\07CSharp-Advanced-Workshop-Lab\Custom_Doubly_ Linked_List\obj\Debug\netcoreapp3.1\Custom_Doubly_Linked_List_To_Generic.dll
+C:\Users\lenovo\source\repos\07CSharp-Advanced-Workshop-Lab\Custom_Doubly_ Linked_List\obj\Debug\netcoreapp3.1\Custom_Doubly_Linked_List_To_Generic.pdb
+C:\Users\lenovo\source\repos\07CSharp-Advanced-Workshop-Lab\Custom_Doubly_ Linked_List\obj\Debug\netcoreapp3.1\Custom_Doubly_Linked_List_To_Generic.genruntimeconfig.cache

@@ -1,0 +1,27 @@
+C:\Users\lenovo\source\repos\Custom_Doubly_ Linked_List\Custom_Doubly_ Linked_List\bin\Debug\netcoreapp3.1\Custom_Doubly_ Linked_List.exe
+C:\Users\lenovo\source\repos\Custom_Doubly_ Linked_List\Custom_Doubly_ Linked_List\bin\Debug\netcoreapp3.1\Custom_Doubly_ Linked_List.deps.json
+C:\Users\lenovo\source\repos\Custom_Doubly_ Linked_List\Custom_Doubly_ Linked_List\bin\Debug\netcoreapp3.1\Custom_Doubly_ Linked_List.runtimeconfig.json
+C:\Users\lenovo\source\repos\Custom_Doubly_ Linked_List\Custom_Doubly_ Linked_List\bin\Debug\netcoreapp3.1\Custom_Doubly_ Linked_List.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Custom_Doubly_ Linked_List\Custom_Doubly_ Linked_List\bin\Debug\netcoreapp3.1\Custom_Doubly_ Linked_List.dll
+C:\Users\lenovo\source\repos\Custom_Doubly_ Linked_List\Custom_Doubly_ Linked_List\bin\Debug\netcoreapp3.1\Custom_Doubly_ Linked_List.pdb
+C:\Users\lenovo\source\repos\Custom_Doubly_ Linked_List\Custom_Doubly_ Linked_List\obj\Debug\netcoreapp3.1\Custom_Doubly_ Linked_List.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Custom_Doubly_ Linked_List\Custom_Doubly_ Linked_List\obj\Debug\netcoreapp3.1\Custom_Doubly_ Linked_List.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Custom_Doubly_ Linked_List\Custom_Doubly_ Linked_List\obj\Debug\netcoreapp3.1\Custom_Doubly_ Linked_List.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Custom_Doubly_ Linked_List\Custom_Doubly_ Linked_List\obj\Debug\netcoreapp3.1\Custom_Doubly_ Linked_List.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Custom_Doubly_ Linked_List\Custom_Doubly_ Linked_List\obj\Debug\netcoreapp3.1\Custom_Doubly_ Linked_List.dll
+C:\Users\lenovo\source\repos\Custom_Doubly_ Linked_List\Custom_Doubly_ Linked_List\obj\Debug\netcoreapp3.1\Custom_Doubly_ Linked_List.pdb
+C:\Users\lenovo\source\repos\Custom_Doubly_ Linked_List\Custom_Doubly_ Linked_List\obj\Debug\netcoreapp3.1\Custom_Doubly_ Linked_List.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\07CSharp-Advanced-Workshop-Lab\Custom_Doubly_ Linked_List\bin\Debug\netcoreapp3.1\Custom_Doubly_ Linked_List.exe
+C:\Users\lenovo\source\repos\07CSharp-Advanced-Workshop-Lab\Custom_Doubly_ Linked_List\bin\Debug\netcoreapp3.1\Custom_Doubly_ Linked_List.deps.json
+C:\Users\lenovo\source\repos\07CSharp-Advanced-Workshop-Lab\Custom_Doubly_ Linked_List\bin\Debug\netcoreapp3.1\Custom_Doubly_ Linked_List.runtimeconfig.json
+C:\Users\lenovo\source\repos\07CSharp-Advanced-Workshop-Lab\Custom_Doubly_ Linked_List\bin\Debug\netcoreapp3.1\Custom_Doubly_ Linked_List.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\07CSharp-Advanced-Workshop-Lab\Custom_Doubly_ Linked_List\bin\Debug\netcoreapp3.1\Custom_Doubly_ Linked_List.dll
+C:\Users\lenovo\source\repos\07CSharp-Advanced-Workshop-Lab\Custom_Doubly_ Linked_List\bin\Debug\netcoreapp3.1\Custom_Doubly_ Linked_List.pdb
+C:\Users\lenovo\source\repos\07CSharp-Advanced-Workshop-Lab\Custom_Doubly_ Linked_List\bin\Debug\netcoreapp3.1\Custom_Doubly_ Linked_List.xml
+C:\Users\lenovo\source\repos\07CSharp-Advanced-Workshop-Lab\Custom_Doubly_ Linked_List\obj\Debug\netcoreapp3.1\Custom_Doubly_ Linked_List.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\07CSharp-Advanced-Workshop-Lab\Custom_Doubly_ Linked_List\obj\Debug\netcoreapp3.1\Custom_Doubly_ Linked_List.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\07CSharp-Advanced-Workshop-Lab\Custom_Doubly_ Linked_List\obj\Debug\netcoreapp3.1\Custom_Doubly_ Linked_List.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\07CSharp-Advanced-Workshop-Lab\Custom_Doubly_ Linked_List\obj\Debug\netcoreapp3.1\Custom_Doubly_ Linked_List.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\07CSharp-Advanced-Workshop-Lab\Custom_Doubly_ Linked_List\obj\Debug\netcoreapp3.1\Custom_Doubly_ Linked_List.dll
+C:\Users\lenovo\source\repos\07CSharp-Advanced-Workshop-Lab\Custom_Doubly_ Linked_List\obj\Debug\netcoreapp3.1\Custom_Doubly_ Linked_List.pdb
+C:\Users\lenovo\source\repos\07CSharp-Advanced-Workshop-Lab\Custom_Doubly_ Linked_List\obj\Debug\netcoreapp3.1\Custom_Doubly_ Linked_List.genruntimeconfig.cache

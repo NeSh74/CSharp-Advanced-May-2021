@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Custom_Doubly_Linked_List_To_Generic</name>
+    </assembly>
+    <members>
+        <member name="T:Custom_Doubly_Linked_List_To_Generic.CustomLinkedList`1">
+            <summary>
+            Двойно свързан списък
+            </summary>
+        </member>
+        <member name="P:Custom_Doubly_Linked_List_To_Generic.CustomLinkedList`1.Count">
+            <summary>
+            Брой елементи в списъка
+            </summary>
+        </member>
+        <member name="P:Custom_Doubly_Linked_List_To_Generic.CustomLinkedList`1.Head">
+            <summary>
+            Първи елемент
+            </summary>
+        </member>
+        <member name="P:Custom_Doubly_Linked_List_To_Generic.CustomLinkedList`1.Tail">
+            <summary>
+            Последен елемент
+            </summary>
+        </member>
+        <member name="M:Custom_Doubly_Linked_List_To_Generic.CustomLinkedList`1.#ctor">
+            <summary>
+            създава празен списък
+            </summary>
+        </member>
+        <member name="M:Custom_Doubly_Linked_List_To_Generic.CustomLinkedList`1.#ctor(`0)">
+            <summary>
+            създава списък с един елемент
+            </summary>
+            <param name="value">Стойност на елемента</param>
+        </member>
+        <member name="M:Custom_Doubly_Linked_List_To_Generic.CustomLinkedList`1.#ctor(System.Collections.Generic.IEnumerable{`0})">
+            <summary>
+            Създава списък от колекция от елементи
+            </summary>
+            <param name="list">Елементи, които да бъдат добавени в списъка</param>
+        </member>
+        <member name="M:Custom_Doubly_Linked_List_To_Generic.CustomLinkedList`1.AddFirst(`0)">
+            <summary>
+            добавя елемент в началото 
+            </summary>
+            <param name="element">Елемент за добавяне</param>
+        </member>
+        <member name="M:Custom_Doubly_Linked_List_To_Generic.CustomLinkedList`1.AddLast(`0)">
+            <summary>
+            добавя елемент в края
+            </summary>
+            <param name="element">Елемент за добавяне</param>
+        </member>
+        <member name="M:Custom_Doubly_Linked_List_To_Generic.CustomLinkedList`1.RemoveFirst">
+            <summary>
+            Премахва елемент във началото
+            </summary>
+            <returns>Стойност на премахнатият елемент</returns>
+        </member>
+        <member name="M:Custom_Doubly_Linked_List_To_Generic.CustomLinkedList`1.RemoveLast">
+            <summary>
+            Премахва елемент в края
+            </summary>
+            <returns>Стойност на премахнатият елемент</returns>
+        </member>
+        <member name="M:Custom_Doubly_Linked_List_To_Generic.CustomLinkedList`1.Foreach(System.Action{`0})">
+            <summary>
+            Извършва действие върху всеки елемент на колекцията
+            </summary>
+            <param name="action">Действие, което да се изпълни</param>
+        </member>
+        <member name="M:Custom_Doubly_Linked_List_To_Generic.CustomLinkedList`1.ToArray">
+            <summary>
+            Превръща списъка в масив
+            </summary>
+            <returns>Масив от елементите на списъка</returns>
+        </member>
+        <member name="T:Custom_Doubly_Linked_List_To_Generic.Node`1">
+            <summary>
+            Елемент от двойно свързан списък
+            </summary>
+        </member>
+        <member name="P:Custom_Doubly_Linked_List_To_Generic.Node`1.Value">
+            <summary>
+            Стойност на елемента
+            </summary>
+        </member>
+        <member name="P:Custom_Doubly_Linked_List_To_Generic.Node`1.Previous">
+            <summary>
+            Предишен елемент
+            </summary>
+        </member>
+        <member name="P:Custom_Doubly_Linked_List_To_Generic.Node`1.Next">
+            <summary>
+            Следващ елемент
+            </summary>
+        </member>
+    </members>
+</doc>

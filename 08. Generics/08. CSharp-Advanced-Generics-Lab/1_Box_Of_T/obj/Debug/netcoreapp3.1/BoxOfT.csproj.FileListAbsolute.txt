@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Lab_Generics\1_Box_Of_T\bin\Debug\netcoreapp3.1\BoxOfT.exe
+C:\Users\lenovo\source\repos\Lab_Generics\1_Box_Of_T\bin\Debug\netcoreapp3.1\BoxOfT.deps.json
+C:\Users\lenovo\source\repos\Lab_Generics\1_Box_Of_T\bin\Debug\netcoreapp3.1\BoxOfT.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lab_Generics\1_Box_Of_T\bin\Debug\netcoreapp3.1\BoxOfT.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Lab_Generics\1_Box_Of_T\bin\Debug\netcoreapp3.1\BoxOfT.dll
+C:\Users\lenovo\source\repos\Lab_Generics\1_Box_Of_T\bin\Debug\netcoreapp3.1\BoxOfT.pdb
+C:\Users\lenovo\source\repos\Lab_Generics\1_Box_Of_T\obj\Debug\netcoreapp3.1\BoxOfT.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Lab_Generics\1_Box_Of_T\obj\Debug\netcoreapp3.1\BoxOfT.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lab_Generics\1_Box_Of_T\obj\Debug\netcoreapp3.1\BoxOfT.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lab_Generics\1_Box_Of_T\obj\Debug\netcoreapp3.1\BoxOfT.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lab_Generics\1_Box_Of_T\obj\Debug\netcoreapp3.1\BoxOfT.dll
+C:\Users\lenovo\source\repos\Lab_Generics\1_Box_Of_T\obj\Debug\netcoreapp3.1\BoxOfT.pdb
+C:\Users\lenovo\source\repos\Lab_Generics\1_Box_Of_T\obj\Debug\netcoreapp3.1\BoxOfT.genruntimeconfig.cache

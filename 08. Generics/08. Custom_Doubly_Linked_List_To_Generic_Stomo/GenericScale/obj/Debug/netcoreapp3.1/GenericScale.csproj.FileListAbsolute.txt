@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\08. Custom_Doubly_Linked_List_To_Generic\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.exe
+C:\Users\lenovo\source\repos\08. Custom_Doubly_Linked_List_To_Generic\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.deps.json
+C:\Users\lenovo\source\repos\08. Custom_Doubly_Linked_List_To_Generic\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.runtimeconfig.json
+C:\Users\lenovo\source\repos\08. Custom_Doubly_Linked_List_To_Generic\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\08. Custom_Doubly_Linked_List_To_Generic\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.dll
+C:\Users\lenovo\source\repos\08. Custom_Doubly_Linked_List_To_Generic\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.pdb
+C:\Users\lenovo\source\repos\08. Custom_Doubly_Linked_List_To_Generic\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\08. Custom_Doubly_Linked_List_To_Generic\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\08. Custom_Doubly_Linked_List_To_Generic\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\08. Custom_Doubly_Linked_List_To_Generic\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\08. Custom_Doubly_Linked_List_To_Generic\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.dll
+C:\Users\lenovo\source\repos\08. Custom_Doubly_Linked_List_To_Generic\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.pdb
+C:\Users\lenovo\source\repos\08. Custom_Doubly_Linked_List_To_Generic\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.genruntimeconfig.cache
