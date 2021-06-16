@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\2_GenericBoxOfInteger\bin\Debug\netcoreapp3.1\2_GenericBoxOfInteger.exe
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\2_GenericBoxOfInteger\bin\Debug\netcoreapp3.1\2_GenericBoxOfInteger.deps.json
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\2_GenericBoxOfInteger\bin\Debug\netcoreapp3.1\2_GenericBoxOfInteger.runtimeconfig.json
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\2_GenericBoxOfInteger\bin\Debug\netcoreapp3.1\2_GenericBoxOfInteger.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\2_GenericBoxOfInteger\bin\Debug\netcoreapp3.1\2_GenericBoxOfInteger.dll
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\2_GenericBoxOfInteger\bin\Debug\netcoreapp3.1\2_GenericBoxOfInteger.pdb
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\2_GenericBoxOfInteger\obj\Debug\netcoreapp3.1\2_GenericBoxOfInteger.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\2_GenericBoxOfInteger\obj\Debug\netcoreapp3.1\2_GenericBoxOfInteger.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\2_GenericBoxOfInteger\obj\Debug\netcoreapp3.1\2_GenericBoxOfInteger.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\2_GenericBoxOfInteger\obj\Debug\netcoreapp3.1\2_GenericBoxOfInteger.dll
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\2_GenericBoxOfInteger\obj\Debug\netcoreapp3.1\2_GenericBoxOfInteger.pdb
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\2_GenericBoxOfInteger\obj\Debug\netcoreapp3.1\2_GenericBoxOfInteger.genruntimeconfig.cache

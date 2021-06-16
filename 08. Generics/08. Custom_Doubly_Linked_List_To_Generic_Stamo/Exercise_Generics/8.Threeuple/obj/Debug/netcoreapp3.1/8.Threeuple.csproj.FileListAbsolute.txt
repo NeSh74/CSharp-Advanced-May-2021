@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Exercise_Generics\8.Threeuple\bin\Debug\netcoreapp3.1\8.Threeuple.exe
+C:\Users\lenovo\source\repos\Exercise_Generics\8.Threeuple\bin\Debug\netcoreapp3.1\8.Threeuple.deps.json
+C:\Users\lenovo\source\repos\Exercise_Generics\8.Threeuple\bin\Debug\netcoreapp3.1\8.Threeuple.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercise_Generics\8.Threeuple\bin\Debug\netcoreapp3.1\8.Threeuple.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercise_Generics\8.Threeuple\bin\Debug\netcoreapp3.1\8.Threeuple.dll
+C:\Users\lenovo\source\repos\Exercise_Generics\8.Threeuple\bin\Debug\netcoreapp3.1\8.Threeuple.pdb
+C:\Users\lenovo\source\repos\Exercise_Generics\8.Threeuple\obj\Debug\netcoreapp3.1\8.Threeuple.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Exercise_Generics\8.Threeuple\obj\Debug\netcoreapp3.1\8.Threeuple.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Generics\8.Threeuple\obj\Debug\netcoreapp3.1\8.Threeuple.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercise_Generics\8.Threeuple\obj\Debug\netcoreapp3.1\8.Threeuple.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Generics\8.Threeuple\obj\Debug\netcoreapp3.1\8.Threeuple.dll
+C:\Users\lenovo\source\repos\Exercise_Generics\8.Threeuple\obj\Debug\netcoreapp3.1\8.Threeuple.pdb
+C:\Users\lenovo\source\repos\Exercise_Generics\8.Threeuple\obj\Debug\netcoreapp3.1\8.Threeuple.genruntimeconfig.cache

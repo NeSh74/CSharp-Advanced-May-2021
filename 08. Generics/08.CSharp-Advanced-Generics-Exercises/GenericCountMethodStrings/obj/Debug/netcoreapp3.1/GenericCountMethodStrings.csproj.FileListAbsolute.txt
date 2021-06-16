@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodStrings.exe
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodStrings.deps.json
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodStrings.runtimeconfig.json
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodStrings.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodStrings.dll
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodStrings.pdb
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStrings.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStrings.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStrings.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStrings.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStrings.dll
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStrings.pdb
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStrings.genruntimeconfig.cache

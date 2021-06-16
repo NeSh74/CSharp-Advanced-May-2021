@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\ConsoleApp1\bin\Debug\netcoreapp3.1\1.Generic_Box_Of_String.exe
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\ConsoleApp1\bin\Debug\netcoreapp3.1\1.Generic_Box_Of_String.deps.json
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\ConsoleApp1\bin\Debug\netcoreapp3.1\1.Generic_Box_Of_String.runtimeconfig.json
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\ConsoleApp1\bin\Debug\netcoreapp3.1\1.Generic_Box_Of_String.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\ConsoleApp1\bin\Debug\netcoreapp3.1\1.Generic_Box_Of_String.dll
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\ConsoleApp1\bin\Debug\netcoreapp3.1\1.Generic_Box_Of_String.pdb
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\ConsoleApp1\obj\Debug\netcoreapp3.1\1.Generic_Box_Of_String.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\ConsoleApp1\obj\Debug\netcoreapp3.1\1.Generic_Box_Of_String.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\ConsoleApp1\obj\Debug\netcoreapp3.1\1.Generic_Box_Of_String.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\ConsoleApp1\obj\Debug\netcoreapp3.1\1.Generic_Box_Of_String.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\ConsoleApp1\obj\Debug\netcoreapp3.1\1.Generic_Box_Of_String.dll
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\ConsoleApp1\obj\Debug\netcoreapp3.1\1.Generic_Box_Of_String.pdb
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\ConsoleApp1\obj\Debug\netcoreapp3.1\1.Generic_Box_Of_String.genruntimeconfig.cache

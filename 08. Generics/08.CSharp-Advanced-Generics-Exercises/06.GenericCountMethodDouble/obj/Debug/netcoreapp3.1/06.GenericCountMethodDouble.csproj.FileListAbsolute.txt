@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\06.GenericCountMethodDouble\bin\Debug\netcoreapp3.1\06.GenericCountMethodDouble.exe
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\06.GenericCountMethodDouble\bin\Debug\netcoreapp3.1\06.GenericCountMethodDouble.deps.json
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\06.GenericCountMethodDouble\bin\Debug\netcoreapp3.1\06.GenericCountMethodDouble.runtimeconfig.json
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\06.GenericCountMethodDouble\bin\Debug\netcoreapp3.1\06.GenericCountMethodDouble.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\06.GenericCountMethodDouble\bin\Debug\netcoreapp3.1\06.GenericCountMethodDouble.dll
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\06.GenericCountMethodDouble\bin\Debug\netcoreapp3.1\06.GenericCountMethodDouble.pdb
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\06.GenericCountMethodDouble\obj\Debug\netcoreapp3.1\06.GenericCountMethodDouble.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\06.GenericCountMethodDouble\obj\Debug\netcoreapp3.1\06.GenericCountMethodDouble.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\06.GenericCountMethodDouble\obj\Debug\netcoreapp3.1\06.GenericCountMethodDouble.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\06.GenericCountMethodDouble\obj\Debug\netcoreapp3.1\06.GenericCountMethodDouble.dll
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\06.GenericCountMethodDouble\obj\Debug\netcoreapp3.1\06.GenericCountMethodDouble.pdb
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\06.GenericCountMethodDouble\obj\Debug\netcoreapp3.1\06.GenericCountMethodDouble.genruntimeconfig.cache

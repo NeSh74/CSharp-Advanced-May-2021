@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\3_GenericSwapMethodStrings\bin\Debug\netcoreapp3.1\3_GenericSwapMethodStrings.exe
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\3_GenericSwapMethodStrings\bin\Debug\netcoreapp3.1\3_GenericSwapMethodStrings.deps.json
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\3_GenericSwapMethodStrings\bin\Debug\netcoreapp3.1\3_GenericSwapMethodStrings.runtimeconfig.json
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\3_GenericSwapMethodStrings\bin\Debug\netcoreapp3.1\3_GenericSwapMethodStrings.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\3_GenericSwapMethodStrings\bin\Debug\netcoreapp3.1\3_GenericSwapMethodStrings.dll
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\3_GenericSwapMethodStrings\bin\Debug\netcoreapp3.1\3_GenericSwapMethodStrings.pdb
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\3_GenericSwapMethodStrings\obj\Debug\netcoreapp3.1\3_GenericSwapMethodStrings.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\3_GenericSwapMethodStrings\obj\Debug\netcoreapp3.1\3_GenericSwapMethodStrings.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\3_GenericSwapMethodStrings\obj\Debug\netcoreapp3.1\3_GenericSwapMethodStrings.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\3_GenericSwapMethodStrings\obj\Debug\netcoreapp3.1\3_GenericSwapMethodStrings.dll
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\3_GenericSwapMethodStrings\obj\Debug\netcoreapp3.1\3_GenericSwapMethodStrings.pdb
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\3_GenericSwapMethodStrings\obj\Debug\netcoreapp3.1\3_GenericSwapMethodStrings.genruntimeconfig.cache

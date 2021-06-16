@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\7.Tuple\bin\Debug\netcoreapp3.1\7.Tuple.exe
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\7.Tuple\bin\Debug\netcoreapp3.1\7.Tuple.deps.json
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\7.Tuple\bin\Debug\netcoreapp3.1\7.Tuple.runtimeconfig.json
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\7.Tuple\bin\Debug\netcoreapp3.1\7.Tuple.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\7.Tuple\bin\Debug\netcoreapp3.1\7.Tuple.dll
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\7.Tuple\bin\Debug\netcoreapp3.1\7.Tuple.pdb
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\7.Tuple\obj\Debug\netcoreapp3.1\7.Tuple.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\7.Tuple\obj\Debug\netcoreapp3.1\7.Tuple.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\7.Tuple\obj\Debug\netcoreapp3.1\7.Tuple.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\7.Tuple\obj\Debug\netcoreapp3.1\7.Tuple.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\7.Tuple\obj\Debug\netcoreapp3.1\7.Tuple.dll
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\7.Tuple\obj\Debug\netcoreapp3.1\7.Tuple.pdb
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\7.Tuple\obj\Debug\netcoreapp3.1\7.Tuple.genruntimeconfig.cache

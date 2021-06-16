@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\4_GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\4_GenericSwapMethodIntegers.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\4_GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\4_GenericSwapMethodIntegers.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\4_GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\4_GenericSwapMethodIntegers.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\4_GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\4_GenericSwapMethodIntegers.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\4_GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\4_GenericSwapMethodIntegers.exe
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\4_GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\4_GenericSwapMethodIntegers.deps.json
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\4_GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\4_GenericSwapMethodIntegers.runtimeconfig.json
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\4_GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\4_GenericSwapMethodIntegers.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\4_GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\4_GenericSwapMethodIntegers.dll
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\4_GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\4_GenericSwapMethodIntegers.pdb
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\4_GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\4_GenericSwapMethodIntegers.dll
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\4_GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\4_GenericSwapMethodIntegers.pdb
+C:\Users\lenovo\source\repos\08.CSharp-Advanced-Generics-Exercises\4_GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\4_GenericSwapMethodIntegers.genruntimeconfig.cache

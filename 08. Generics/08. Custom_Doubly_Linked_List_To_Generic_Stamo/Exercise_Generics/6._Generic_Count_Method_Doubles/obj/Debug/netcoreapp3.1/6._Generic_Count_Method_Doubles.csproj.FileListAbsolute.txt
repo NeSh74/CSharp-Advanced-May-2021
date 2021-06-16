@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Exercise_Generics\6._Generic_Count_Method_Doubles\bin\Debug\netcoreapp3.1\6._Generic_Count_Method_Doubles.exe
+C:\Users\lenovo\source\repos\Exercise_Generics\6._Generic_Count_Method_Doubles\bin\Debug\netcoreapp3.1\6._Generic_Count_Method_Doubles.deps.json
+C:\Users\lenovo\source\repos\Exercise_Generics\6._Generic_Count_Method_Doubles\bin\Debug\netcoreapp3.1\6._Generic_Count_Method_Doubles.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercise_Generics\6._Generic_Count_Method_Doubles\bin\Debug\netcoreapp3.1\6._Generic_Count_Method_Doubles.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercise_Generics\6._Generic_Count_Method_Doubles\bin\Debug\netcoreapp3.1\6._Generic_Count_Method_Doubles.dll
+C:\Users\lenovo\source\repos\Exercise_Generics\6._Generic_Count_Method_Doubles\bin\Debug\netcoreapp3.1\6._Generic_Count_Method_Doubles.pdb
+C:\Users\lenovo\source\repos\Exercise_Generics\6._Generic_Count_Method_Doubles\obj\Debug\netcoreapp3.1\6._Generic_Count_Method_Doubles.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Exercise_Generics\6._Generic_Count_Method_Doubles\obj\Debug\netcoreapp3.1\6._Generic_Count_Method_Doubles.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Generics\6._Generic_Count_Method_Doubles\obj\Debug\netcoreapp3.1\6._Generic_Count_Method_Doubles.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercise_Generics\6._Generic_Count_Method_Doubles\obj\Debug\netcoreapp3.1\6._Generic_Count_Method_Doubles.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Generics\6._Generic_Count_Method_Doubles\obj\Debug\netcoreapp3.1\6._Generic_Count_Method_Doubles.dll
+C:\Users\lenovo\source\repos\Exercise_Generics\6._Generic_Count_Method_Doubles\obj\Debug\netcoreapp3.1\6._Generic_Count_Method_Doubles.pdb
+C:\Users\lenovo\source\repos\Exercise_Generics\6._Generic_Count_Method_Doubles\obj\Debug\netcoreapp3.1\6._Generic_Count_Method_Doubles.genruntimeconfig.cache
