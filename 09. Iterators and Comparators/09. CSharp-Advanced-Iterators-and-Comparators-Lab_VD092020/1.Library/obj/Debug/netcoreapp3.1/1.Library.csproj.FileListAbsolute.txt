@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Lab_Iterators_And_Comparators\1.Library\bin\Debug\netcoreapp3.1\1.Library.exe
+C:\Users\lenovo\source\repos\Lab_Iterators_And_Comparators\1.Library\bin\Debug\netcoreapp3.1\1.Library.deps.json
+C:\Users\lenovo\source\repos\Lab_Iterators_And_Comparators\1.Library\bin\Debug\netcoreapp3.1\1.Library.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lab_Iterators_And_Comparators\1.Library\bin\Debug\netcoreapp3.1\1.Library.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Lab_Iterators_And_Comparators\1.Library\bin\Debug\netcoreapp3.1\1.Library.dll
+C:\Users\lenovo\source\repos\Lab_Iterators_And_Comparators\1.Library\bin\Debug\netcoreapp3.1\1.Library.pdb
+C:\Users\lenovo\source\repos\Lab_Iterators_And_Comparators\1.Library\obj\Debug\netcoreapp3.1\1.Library.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Lab_Iterators_And_Comparators\1.Library\obj\Debug\netcoreapp3.1\1.Library.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lab_Iterators_And_Comparators\1.Library\obj\Debug\netcoreapp3.1\1.Library.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lab_Iterators_And_Comparators\1.Library\obj\Debug\netcoreapp3.1\1.Library.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lab_Iterators_And_Comparators\1.Library\obj\Debug\netcoreapp3.1\1.Library.dll
+C:\Users\lenovo\source\repos\Lab_Iterators_And_Comparators\1.Library\obj\Debug\netcoreapp3.1\1.Library.pdb
+C:\Users\lenovo\source\repos\Lab_Iterators_And_Comparators\1.Library\obj\Debug\netcoreapp3.1\1.Library.genruntimeconfig.cache
