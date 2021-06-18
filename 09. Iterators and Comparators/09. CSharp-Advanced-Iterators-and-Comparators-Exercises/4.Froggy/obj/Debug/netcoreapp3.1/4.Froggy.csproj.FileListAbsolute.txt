@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\Exercise_Iterators_And_Comparators\4.Froggy\bin\Debug\netcoreapp3.1\4.Froggy.exe
+C:\Users\lenovo\source\repos\Exercise_Iterators_And_Comparators\4.Froggy\bin\Debug\netcoreapp3.1\4.Froggy.deps.json
+C:\Users\lenovo\source\repos\Exercise_Iterators_And_Comparators\4.Froggy\bin\Debug\netcoreapp3.1\4.Froggy.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercise_Iterators_And_Comparators\4.Froggy\bin\Debug\netcoreapp3.1\4.Froggy.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercise_Iterators_And_Comparators\4.Froggy\bin\Debug\netcoreapp3.1\4.Froggy.dll
+C:\Users\lenovo\source\repos\Exercise_Iterators_And_Comparators\4.Froggy\bin\Debug\netcoreapp3.1\4.Froggy.pdb
+C:\Users\lenovo\source\repos\Exercise_Iterators_And_Comparators\4.Froggy\obj\Debug\netcoreapp3.1\4.Froggy.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Iterators_And_Comparators\4.Froggy\obj\Debug\netcoreapp3.1\4.Froggy.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercise_Iterators_And_Comparators\4.Froggy\obj\Debug\netcoreapp3.1\4.Froggy.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Iterators_And_Comparators\4.Froggy\obj\Debug\netcoreapp3.1\4.Froggy.dll
+C:\Users\lenovo\source\repos\Exercise_Iterators_And_Comparators\4.Froggy\obj\Debug\netcoreapp3.1\4.Froggy.pdb
+C:\Users\lenovo\source\repos\Exercise_Iterators_And_Comparators\4.Froggy\obj\Debug\netcoreapp3.1\4.Froggy.genruntimeconfig.cache

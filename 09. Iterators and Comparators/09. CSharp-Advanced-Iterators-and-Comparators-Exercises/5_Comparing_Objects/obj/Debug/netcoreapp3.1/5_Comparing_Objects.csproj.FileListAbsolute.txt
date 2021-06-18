@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\Exercise_Iterators_And_Comparators\5_Comparing_Objects\bin\Debug\netcoreapp3.1\5_Comparing_Objects.exe
+C:\Users\lenovo\source\repos\Exercise_Iterators_And_Comparators\5_Comparing_Objects\bin\Debug\netcoreapp3.1\5_Comparing_Objects.deps.json
+C:\Users\lenovo\source\repos\Exercise_Iterators_And_Comparators\5_Comparing_Objects\bin\Debug\netcoreapp3.1\5_Comparing_Objects.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercise_Iterators_And_Comparators\5_Comparing_Objects\bin\Debug\netcoreapp3.1\5_Comparing_Objects.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercise_Iterators_And_Comparators\5_Comparing_Objects\bin\Debug\netcoreapp3.1\5_Comparing_Objects.dll
+C:\Users\lenovo\source\repos\Exercise_Iterators_And_Comparators\5_Comparing_Objects\bin\Debug\netcoreapp3.1\5_Comparing_Objects.pdb
+C:\Users\lenovo\source\repos\Exercise_Iterators_And_Comparators\5_Comparing_Objects\obj\Debug\netcoreapp3.1\5_Comparing_Objects.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Iterators_And_Comparators\5_Comparing_Objects\obj\Debug\netcoreapp3.1\5_Comparing_Objects.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercise_Iterators_And_Comparators\5_Comparing_Objects\obj\Debug\netcoreapp3.1\5_Comparing_Objects.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Iterators_And_Comparators\5_Comparing_Objects\obj\Debug\netcoreapp3.1\5_Comparing_Objects.dll
+C:\Users\lenovo\source\repos\Exercise_Iterators_And_Comparators\5_Comparing_Objects\obj\Debug\netcoreapp3.1\5_Comparing_Objects.pdb
+C:\Users\lenovo\source\repos\Exercise_Iterators_And_Comparators\5_Comparing_Objects\obj\Debug\netcoreapp3.1\5_Comparing_Objects.genruntimeconfig.cache
