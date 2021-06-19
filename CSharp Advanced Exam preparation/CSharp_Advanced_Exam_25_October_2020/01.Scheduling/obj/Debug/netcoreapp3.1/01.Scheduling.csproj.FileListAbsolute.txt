@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_25_October_2020\01.Scheduling\bin\Debug\netcoreapp3.1\01.Scheduling.exe
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_25_October_2020\01.Scheduling\bin\Debug\netcoreapp3.1\01.Scheduling.deps.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_25_October_2020\01.Scheduling\bin\Debug\netcoreapp3.1\01.Scheduling.runtimeconfig.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_25_October_2020\01.Scheduling\bin\Debug\netcoreapp3.1\01.Scheduling.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_25_October_2020\01.Scheduling\bin\Debug\netcoreapp3.1\01.Scheduling.dll
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_25_October_2020\01.Scheduling\bin\Debug\netcoreapp3.1\01.Scheduling.pdb
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_25_October_2020\01.Scheduling\obj\Debug\netcoreapp3.1\01.Scheduling.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_25_October_2020\01.Scheduling\obj\Debug\netcoreapp3.1\01.Scheduling.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_25_October_2020\01.Scheduling\obj\Debug\netcoreapp3.1\01.Scheduling.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_25_October_2020\01.Scheduling\obj\Debug\netcoreapp3.1\01.Scheduling.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_25_October_2020\01.Scheduling\obj\Debug\netcoreapp3.1\01.Scheduling.dll
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_25_October_2020\01.Scheduling\obj\Debug\netcoreapp3.1\01.Scheduling.pdb
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_25_October_2020\01.Scheduling\obj\Debug\netcoreapp3.1\01.Scheduling.genruntimeconfig.cache
