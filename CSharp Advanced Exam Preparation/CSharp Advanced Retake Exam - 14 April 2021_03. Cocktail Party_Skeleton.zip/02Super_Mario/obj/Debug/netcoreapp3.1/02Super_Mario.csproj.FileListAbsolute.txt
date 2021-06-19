@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_14_April_2021\02Super_Mario\bin\Debug\netcoreapp3.1\02Super_Mario.exe
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_14_April_2021\02Super_Mario\bin\Debug\netcoreapp3.1\02Super_Mario.deps.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_14_April_2021\02Super_Mario\bin\Debug\netcoreapp3.1\02Super_Mario.runtimeconfig.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_14_April_2021\02Super_Mario\bin\Debug\netcoreapp3.1\02Super_Mario.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_14_April_2021\02Super_Mario\bin\Debug\netcoreapp3.1\02Super_Mario.dll
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_14_April_2021\02Super_Mario\bin\Debug\netcoreapp3.1\02Super_Mario.pdb
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_14_April_2021\02Super_Mario\obj\Debug\netcoreapp3.1\02Super_Mario.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_14_April_2021\02Super_Mario\obj\Debug\netcoreapp3.1\02Super_Mario.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_14_April_2021\02Super_Mario\obj\Debug\netcoreapp3.1\02Super_Mario.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_14_April_2021\02Super_Mario\obj\Debug\netcoreapp3.1\02Super_Mario.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_14_April_2021\02Super_Mario\obj\Debug\netcoreapp3.1\02Super_Mario.dll
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_14_April_2021\02Super_Mario\obj\Debug\netcoreapp3.1\02Super_Mario.pdb
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_14_April_2021\02Super_Mario\obj\Debug\netcoreapp3.1\02Super_Mario.genruntimeconfig.cache

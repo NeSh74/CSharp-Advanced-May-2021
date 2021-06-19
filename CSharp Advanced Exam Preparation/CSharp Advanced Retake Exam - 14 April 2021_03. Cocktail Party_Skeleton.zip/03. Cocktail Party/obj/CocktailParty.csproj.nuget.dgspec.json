@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lenovo\\AppData\\Local\\Temp\\Temp1_03. Cocktail Party_Skeleton.zip\\Skeleton\\CocktailParty.csproj": {}
+    "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp Advanced Retake Exam - 14 April 2021_03. Cocktail Party_Skeleton.zip\\Skeleton\\CocktailParty.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lenovo\\AppData\\Local\\Temp\\Temp1_03. Cocktail Party_Skeleton.zip\\Skeleton\\CocktailParty.csproj": {
+    "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp Advanced Retake Exam - 14 April 2021_03. Cocktail Party_Skeleton.zip\\Skeleton\\CocktailParty.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\AppData\\Local\\Temp\\Temp1_03. Cocktail Party_Skeleton.zip\\Skeleton\\CocktailParty.csproj",
+        "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp Advanced Retake Exam - 14 April 2021_03. Cocktail Party_Skeleton.zip\\Skeleton\\CocktailParty.csproj",
         "projectName": "CocktailParty",
-        "projectPath": "C:\\Users\\lenovo\\AppData\\Local\\Temp\\Temp1_03. Cocktail Party_Skeleton.zip\\Skeleton\\CocktailParty.csproj",
+        "projectPath": "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp Advanced Retake Exam - 14 April 2021_03. Cocktail Party_Skeleton.zip\\Skeleton\\CocktailParty.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\AppData\\Local\\Temp\\Temp1_03. Cocktail Party_Skeleton.zip\\Skeleton\\obj\\",
+        "outputPath": "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp Advanced Retake Exam - 14 April 2021_03. Cocktail Party_Skeleton.zip\\Skeleton\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
