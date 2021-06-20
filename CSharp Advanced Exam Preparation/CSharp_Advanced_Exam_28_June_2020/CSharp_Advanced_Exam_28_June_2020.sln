@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Bombs", "01.Bombs\01.Bombs.csproj", "{02C0A32F-BB67-4464-9999-2353EF3D7E38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Snake", "02.Snake\02.Snake.csproj", "{E04ECB30-3A6C-49BF-A794-994E23C49EB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Parking", "03.Parking\03.Parking.csproj", "{A3947928-DD71-4B97-AC30-3F9504267A17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02C0A32F-BB67-4464-9999-2353EF3D7E38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02C0A32F-BB67-4464-9999-2353EF3D7E38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02C0A32F-BB67-4464-9999-2353EF3D7E38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02C0A32F-BB67-4464-9999-2353EF3D7E38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E04ECB30-3A6C-49BF-A794-994E23C49EB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E04ECB30-3A6C-49BF-A794-994E23C49EB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E04ECB30-3A6C-49BF-A794-994E23C49EB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E04ECB30-3A6C-49BF-A794-994E23C49EB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3947928-DD71-4B97-AC30-3F9504267A17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3947928-DD71-4B97-AC30-3F9504267A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3947928-DD71-4B97-AC30-3F9504267A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3947928-DD71-4B97-AC30-3F9504267A17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D43AFC03-24A8-4C13-9638-0DE5A93D3173}
+	EndGlobalSection
+EndGlobal

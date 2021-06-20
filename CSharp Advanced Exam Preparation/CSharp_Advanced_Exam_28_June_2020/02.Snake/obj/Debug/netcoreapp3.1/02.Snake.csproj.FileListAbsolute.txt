@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_28_June_2020\02.Snake\bin\Debug\netcoreapp3.1\02.Snake.exe
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_28_June_2020\02.Snake\bin\Debug\netcoreapp3.1\02.Snake.deps.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_28_June_2020\02.Snake\bin\Debug\netcoreapp3.1\02.Snake.runtimeconfig.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_28_June_2020\02.Snake\bin\Debug\netcoreapp3.1\02.Snake.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_28_June_2020\02.Snake\bin\Debug\netcoreapp3.1\02.Snake.dll
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_28_June_2020\02.Snake\bin\Debug\netcoreapp3.1\02.Snake.pdb
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_28_June_2020\02.Snake\obj\Debug\netcoreapp3.1\02.Snake.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_28_June_2020\02.Snake\obj\Debug\netcoreapp3.1\02.Snake.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_28_June_2020\02.Snake\obj\Debug\netcoreapp3.1\02.Snake.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_28_June_2020\02.Snake\obj\Debug\netcoreapp3.1\02.Snake.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_28_June_2020\02.Snake\obj\Debug\netcoreapp3.1\02.Snake.dll
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_28_June_2020\02.Snake\obj\Debug\netcoreapp3.1\02.Snake.pdb
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_28_June_2020\02.Snake\obj\Debug\netcoreapp3.1\02.Snake.genruntimeconfig.cache
