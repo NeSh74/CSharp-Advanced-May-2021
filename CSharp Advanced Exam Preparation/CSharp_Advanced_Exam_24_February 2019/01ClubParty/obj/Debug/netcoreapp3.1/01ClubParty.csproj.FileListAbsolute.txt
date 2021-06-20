@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_24_February 2019\01ClubParty\bin\Debug\netcoreapp3.1\01ClubParty.exe
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_24_February 2019\01ClubParty\bin\Debug\netcoreapp3.1\01ClubParty.deps.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_24_February 2019\01ClubParty\bin\Debug\netcoreapp3.1\01ClubParty.runtimeconfig.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_24_February 2019\01ClubParty\bin\Debug\netcoreapp3.1\01ClubParty.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_24_February 2019\01ClubParty\bin\Debug\netcoreapp3.1\01ClubParty.dll
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_24_February 2019\01ClubParty\bin\Debug\netcoreapp3.1\01ClubParty.pdb
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_24_February 2019\01ClubParty\obj\Debug\netcoreapp3.1\01ClubParty.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_24_February 2019\01ClubParty\obj\Debug\netcoreapp3.1\01ClubParty.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_24_February 2019\01ClubParty\obj\Debug\netcoreapp3.1\01ClubParty.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_24_February 2019\01ClubParty\obj\Debug\netcoreapp3.1\01ClubParty.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_24_February 2019\01ClubParty\obj\Debug\netcoreapp3.1\01ClubParty.dll
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_24_February 2019\01ClubParty\obj\Debug\netcoreapp3.1\01ClubParty.pdb
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_24_February 2019\01ClubParty\obj\Debug\netcoreapp3.1\01ClubParty.genruntimeconfig.cache
