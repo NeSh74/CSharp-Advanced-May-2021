@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_16_December_2020\02.Selling\bin\Debug\netcoreapp3.1\02.Selling.exe
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_16_December_2020\02.Selling\bin\Debug\netcoreapp3.1\02.Selling.deps.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_16_December_2020\02.Selling\bin\Debug\netcoreapp3.1\02.Selling.runtimeconfig.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_16_December_2020\02.Selling\bin\Debug\netcoreapp3.1\02.Selling.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_16_December_2020\02.Selling\bin\Debug\netcoreapp3.1\02.Selling.dll
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_16_December_2020\02.Selling\bin\Debug\netcoreapp3.1\02.Selling.pdb
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_16_December_2020\02.Selling\obj\Debug\netcoreapp3.1\02.Selling.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_16_December_2020\02.Selling\obj\Debug\netcoreapp3.1\02.Selling.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_16_December_2020\02.Selling\obj\Debug\netcoreapp3.1\02.Selling.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_16_December_2020\02.Selling\obj\Debug\netcoreapp3.1\02.Selling.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_16_December_2020\02.Selling\obj\Debug\netcoreapp3.1\02.Selling.dll
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_16_December_2020\02.Selling\obj\Debug\netcoreapp3.1\02.Selling.pdb
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_16_December_2020\02.Selling\obj\Debug\netcoreapp3.1\02.Selling.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_22_Feb_2020\02_Re_Volt\bin\Debug\netcoreapp3.1\02_Re_Volt.exe
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_22_Feb_2020\02_Re_Volt\bin\Debug\netcoreapp3.1\02_Re_Volt.deps.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_22_Feb_2020\02_Re_Volt\bin\Debug\netcoreapp3.1\02_Re_Volt.runtimeconfig.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_22_Feb_2020\02_Re_Volt\bin\Debug\netcoreapp3.1\02_Re_Volt.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_22_Feb_2020\02_Re_Volt\bin\Debug\netcoreapp3.1\02_Re_Volt.dll
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_22_Feb_2020\02_Re_Volt\bin\Debug\netcoreapp3.1\02_Re_Volt.pdb
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_22_Feb_2020\02_Re_Volt\obj\Debug\netcoreapp3.1\02_Re_Volt.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_22_Feb_2020\02_Re_Volt\obj\Debug\netcoreapp3.1\02_Re_Volt.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_22_Feb_2020\02_Re_Volt\obj\Debug\netcoreapp3.1\02_Re_Volt.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_22_Feb_2020\02_Re_Volt\obj\Debug\netcoreapp3.1\02_Re_Volt.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_22_Feb_2020\02_Re_Volt\obj\Debug\netcoreapp3.1\02_Re_Volt.dll
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_22_Feb_2020\02_Re_Volt\obj\Debug\netcoreapp3.1\02_Re_Volt.pdb
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_22_Feb_2020\02_Re_Volt\obj\Debug\netcoreapp3.1\02_Re_Volt.genruntimeconfig.cache

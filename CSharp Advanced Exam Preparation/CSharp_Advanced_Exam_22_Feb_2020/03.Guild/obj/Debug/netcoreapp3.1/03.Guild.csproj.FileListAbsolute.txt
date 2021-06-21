@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_22_Feb_2020\03.Guild\bin\Debug\netcoreapp3.1\03.Guild.exe
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_22_Feb_2020\03.Guild\bin\Debug\netcoreapp3.1\03.Guild.deps.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_22_Feb_2020\03.Guild\bin\Debug\netcoreapp3.1\03.Guild.runtimeconfig.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_22_Feb_2020\03.Guild\bin\Debug\netcoreapp3.1\03.Guild.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_22_Feb_2020\03.Guild\bin\Debug\netcoreapp3.1\03.Guild.dll
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_22_Feb_2020\03.Guild\bin\Debug\netcoreapp3.1\03.Guild.pdb
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_22_Feb_2020\03.Guild\obj\Debug\netcoreapp3.1\03.Guild.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_22_Feb_2020\03.Guild\obj\Debug\netcoreapp3.1\03.Guild.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_22_Feb_2020\03.Guild\obj\Debug\netcoreapp3.1\03.Guild.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_22_Feb_2020\03.Guild\obj\Debug\netcoreapp3.1\03.Guild.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_22_Feb_2020\03.Guild\obj\Debug\netcoreapp3.1\03.Guild.dll
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_22_Feb_2020\03.Guild\obj\Debug\netcoreapp3.1\03.Guild.pdb
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_22_Feb_2020\03.Guild\obj\Debug\netcoreapp3.1\03.Guild.genruntimeconfig.cache

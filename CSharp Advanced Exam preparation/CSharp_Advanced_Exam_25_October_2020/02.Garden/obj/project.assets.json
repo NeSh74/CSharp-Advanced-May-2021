@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\CSharp_Advanced_Exam_25_October_2020\\02.Garden\\02.Garden.csproj",
+      "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp_Advanced_Exam_25_October_2020\\02.Garden\\02.Garden.csproj",
       "projectName": "02.Garden",
-      "projectPath": "C:\\Users\\lenovo\\source\\repos\\CSharp_Advanced_Exam_25_October_2020\\02.Garden\\02.Garden.csproj",
+      "projectPath": "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp_Advanced_Exam_25_October_2020\\02.Garden\\02.Garden.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lenovo\\source\\repos\\CSharp_Advanced_Exam_25_October_2020\\02.Garden\\obj\\",
+      "outputPath": "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp_Advanced_Exam_25_October_2020\\02.Garden\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
