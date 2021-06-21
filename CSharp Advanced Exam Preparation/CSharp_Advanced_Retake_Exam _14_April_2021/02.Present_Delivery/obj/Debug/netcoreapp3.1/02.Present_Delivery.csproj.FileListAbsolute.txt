@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam _14_April_2021\02.Present_Delivery\bin\Debug\netcoreapp3.1\02.Present_Delivery.exe
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam _14_April_2021\02.Present_Delivery\bin\Debug\netcoreapp3.1\02.Present_Delivery.deps.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam _14_April_2021\02.Present_Delivery\bin\Debug\netcoreapp3.1\02.Present_Delivery.runtimeconfig.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam _14_April_2021\02.Present_Delivery\bin\Debug\netcoreapp3.1\02.Present_Delivery.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam _14_April_2021\02.Present_Delivery\bin\Debug\netcoreapp3.1\02.Present_Delivery.dll
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam _14_April_2021\02.Present_Delivery\bin\Debug\netcoreapp3.1\02.Present_Delivery.pdb
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam _14_April_2021\02.Present_Delivery\obj\Debug\netcoreapp3.1\02.Present_Delivery.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam _14_April_2021\02.Present_Delivery\obj\Debug\netcoreapp3.1\02.Present_Delivery.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam _14_April_2021\02.Present_Delivery\obj\Debug\netcoreapp3.1\02.Present_Delivery.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam _14_April_2021\02.Present_Delivery\obj\Debug\netcoreapp3.1\02.Present_Delivery.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam _14_April_2021\02.Present_Delivery\obj\Debug\netcoreapp3.1\02.Present_Delivery.dll
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam _14_April_2021\02.Present_Delivery\obj\Debug\netcoreapp3.1\02.Present_Delivery.pdb
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam _14_April_2021\02.Present_Delivery\obj\Debug\netcoreapp3.1\02.Present_Delivery.genruntimeconfig.cache

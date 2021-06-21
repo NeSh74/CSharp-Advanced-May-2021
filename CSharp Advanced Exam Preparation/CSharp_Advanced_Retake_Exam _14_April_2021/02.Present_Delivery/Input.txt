@@ -1,0 +1,21 @@
+5
+4
+- X V -
+- S - V
+- - - -
+X - - -
+up
+right
+down
+right
+Christmas morning
+
+
+3
+4
+- - - -
+V - X -
+- V C V
+- - - S
+left
+up

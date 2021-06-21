@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam _14_April_2021\01.Santas_Present_Factory\bin\Debug\netcoreapp3.1\01.Santas_Present_Factory.exe
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam _14_April_2021\01.Santas_Present_Factory\bin\Debug\netcoreapp3.1\01.Santas_Present_Factory.deps.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam _14_April_2021\01.Santas_Present_Factory\bin\Debug\netcoreapp3.1\01.Santas_Present_Factory.runtimeconfig.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam _14_April_2021\01.Santas_Present_Factory\bin\Debug\netcoreapp3.1\01.Santas_Present_Factory.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam _14_April_2021\01.Santas_Present_Factory\bin\Debug\netcoreapp3.1\01.Santas_Present_Factory.dll
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam _14_April_2021\01.Santas_Present_Factory\bin\Debug\netcoreapp3.1\01.Santas_Present_Factory.pdb
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam _14_April_2021\01.Santas_Present_Factory\obj\Debug\netcoreapp3.1\01.Santas_Present_Factory.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam _14_April_2021\01.Santas_Present_Factory\obj\Debug\netcoreapp3.1\01.Santas_Present_Factory.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam _14_April_2021\01.Santas_Present_Factory\obj\Debug\netcoreapp3.1\01.Santas_Present_Factory.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam _14_April_2021\01.Santas_Present_Factory\obj\Debug\netcoreapp3.1\01.Santas_Present_Factory.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam _14_April_2021\01.Santas_Present_Factory\obj\Debug\netcoreapp3.1\01.Santas_Present_Factory.dll
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam _14_April_2021\01.Santas_Present_Factory\obj\Debug\netcoreapp3.1\01.Santas_Present_Factory.pdb
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam _14_April_2021\01.Santas_Present_Factory\obj\Debug\netcoreapp3.1\01.Santas_Present_Factory.genruntimeconfig.cache

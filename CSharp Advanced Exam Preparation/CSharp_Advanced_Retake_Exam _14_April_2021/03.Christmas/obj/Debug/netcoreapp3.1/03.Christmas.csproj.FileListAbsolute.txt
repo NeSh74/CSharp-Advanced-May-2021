@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam _14_April_2021\03.Christmas\bin\Debug\netcoreapp3.1\03.Christmas.exe
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam _14_April_2021\03.Christmas\bin\Debug\netcoreapp3.1\03.Christmas.deps.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam _14_April_2021\03.Christmas\bin\Debug\netcoreapp3.1\03.Christmas.runtimeconfig.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam _14_April_2021\03.Christmas\bin\Debug\netcoreapp3.1\03.Christmas.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam _14_April_2021\03.Christmas\bin\Debug\netcoreapp3.1\03.Christmas.dll
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam _14_April_2021\03.Christmas\bin\Debug\netcoreapp3.1\03.Christmas.pdb
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam _14_April_2021\03.Christmas\obj\Debug\netcoreapp3.1\03.Christmas.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam _14_April_2021\03.Christmas\obj\Debug\netcoreapp3.1\03.Christmas.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam _14_April_2021\03.Christmas\obj\Debug\netcoreapp3.1\03.Christmas.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam _14_April_2021\03.Christmas\obj\Debug\netcoreapp3.1\03.Christmas.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam _14_April_2021\03.Christmas\obj\Debug\netcoreapp3.1\03.Christmas.dll
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam _14_April_2021\03.Christmas\obj\Debug\netcoreapp3.1\03.Christmas.pdb
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam _14_April_2021\03.Christmas\obj\Debug\netcoreapp3.1\03.Christmas.genruntimeconfig.cache
