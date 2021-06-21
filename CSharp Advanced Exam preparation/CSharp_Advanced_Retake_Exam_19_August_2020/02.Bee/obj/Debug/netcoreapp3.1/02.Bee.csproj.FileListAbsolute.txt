@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_19_August_2020\02.Bee\bin\Debug\netcoreapp3.1\02.Bee.exe
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_19_August_2020\02.Bee\bin\Debug\netcoreapp3.1\02.Bee.deps.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_19_August_2020\02.Bee\bin\Debug\netcoreapp3.1\02.Bee.runtimeconfig.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_19_August_2020\02.Bee\bin\Debug\netcoreapp3.1\02.Bee.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_19_August_2020\02.Bee\bin\Debug\netcoreapp3.1\02.Bee.dll
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_19_August_2020\02.Bee\bin\Debug\netcoreapp3.1\02.Bee.pdb
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_19_August_2020\02.Bee\obj\Debug\netcoreapp3.1\02.Bee.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_19_August_2020\02.Bee\obj\Debug\netcoreapp3.1\02.Bee.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_19_August_2020\02.Bee\obj\Debug\netcoreapp3.1\02.Bee.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_19_August_2020\02.Bee\obj\Debug\netcoreapp3.1\02.Bee.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_19_August_2020\02.Bee\obj\Debug\netcoreapp3.1\02.Bee.dll
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_19_August_2020\02.Bee\obj\Debug\netcoreapp3.1\02.Bee.pdb
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_19_August_2020\02.Bee\obj\Debug\netcoreapp3.1\02.Bee.genruntimeconfig.cache
