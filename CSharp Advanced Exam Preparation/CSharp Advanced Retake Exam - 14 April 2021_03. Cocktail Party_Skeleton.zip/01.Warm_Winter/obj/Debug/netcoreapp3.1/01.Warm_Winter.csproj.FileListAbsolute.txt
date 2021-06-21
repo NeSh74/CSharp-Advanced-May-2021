@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_14_April_2021\01.Warm_Winter\bin\Debug\netcoreapp3.1\01.Warm_Winter.exe
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_14_April_2021\01.Warm_Winter\bin\Debug\netcoreapp3.1\01.Warm_Winter.deps.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_14_April_2021\01.Warm_Winter\bin\Debug\netcoreapp3.1\01.Warm_Winter.runtimeconfig.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_14_April_2021\01.Warm_Winter\bin\Debug\netcoreapp3.1\01.Warm_Winter.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_14_April_2021\01.Warm_Winter\bin\Debug\netcoreapp3.1\01.Warm_Winter.dll
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_14_April_2021\01.Warm_Winter\bin\Debug\netcoreapp3.1\01.Warm_Winter.pdb
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_14_April_2021\01.Warm_Winter\obj\Debug\netcoreapp3.1\01.Warm_Winter.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_14_April_2021\01.Warm_Winter\obj\Debug\netcoreapp3.1\01.Warm_Winter.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_14_April_2021\01.Warm_Winter\obj\Debug\netcoreapp3.1\01.Warm_Winter.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_14_April_2021\01.Warm_Winter\obj\Debug\netcoreapp3.1\01.Warm_Winter.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_14_April_2021\01.Warm_Winter\obj\Debug\netcoreapp3.1\01.Warm_Winter.dll
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_14_April_2021\01.Warm_Winter\obj\Debug\netcoreapp3.1\01.Warm_Winter.pdb
+C:\Users\lenovo\source\repos\CSharp_Advanced_Retake_Exam_14_April_2021\01.Warm_Winter\obj\Debug\netcoreapp3.1\01.Warm_Winter.genruntimeconfig.cache

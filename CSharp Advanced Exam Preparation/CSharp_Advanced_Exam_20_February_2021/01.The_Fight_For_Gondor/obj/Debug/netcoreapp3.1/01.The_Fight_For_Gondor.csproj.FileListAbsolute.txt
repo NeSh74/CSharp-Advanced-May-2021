@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_20_February_2021\01.The_Fight_For_Gondor\bin\Debug\netcoreapp3.1\01.The_Fight_For_Gondor.exe
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_20_February_2021\01.The_Fight_For_Gondor\bin\Debug\netcoreapp3.1\01.The_Fight_For_Gondor.deps.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_20_February_2021\01.The_Fight_For_Gondor\bin\Debug\netcoreapp3.1\01.The_Fight_For_Gondor.runtimeconfig.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_20_February_2021\01.The_Fight_For_Gondor\bin\Debug\netcoreapp3.1\01.The_Fight_For_Gondor.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_20_February_2021\01.The_Fight_For_Gondor\bin\Debug\netcoreapp3.1\01.The_Fight_For_Gondor.dll
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_20_February_2021\01.The_Fight_For_Gondor\bin\Debug\netcoreapp3.1\01.The_Fight_For_Gondor.pdb
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_20_February_2021\01.The_Fight_For_Gondor\obj\Debug\netcoreapp3.1\01.The_Fight_For_Gondor.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_20_February_2021\01.The_Fight_For_Gondor\obj\Debug\netcoreapp3.1\01.The_Fight_For_Gondor.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_20_February_2021\01.The_Fight_For_Gondor\obj\Debug\netcoreapp3.1\01.The_Fight_For_Gondor.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_20_February_2021\01.The_Fight_For_Gondor\obj\Debug\netcoreapp3.1\01.The_Fight_For_Gondor.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_20_February_2021\01.The_Fight_For_Gondor\obj\Debug\netcoreapp3.1\01.The_Fight_For_Gondor.dll
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_20_February_2021\01.The_Fight_For_Gondor\obj\Debug\netcoreapp3.1\01.The_Fight_For_Gondor.pdb
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_20_February_2021\01.The_Fight_For_Gondor\obj\Debug\netcoreapp3.1\01.The_Fight_For_Gondor.genruntimeconfig.cache
