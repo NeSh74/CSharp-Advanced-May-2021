@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\01.Spaceship_Crafting\bin\Debug\netcoreapp3.1\01.Spaceship_Crafting.exe
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\01.Spaceship_Crafting\bin\Debug\netcoreapp3.1\01.Spaceship_Crafting.deps.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\01.Spaceship_Crafting\bin\Debug\netcoreapp3.1\01.Spaceship_Crafting.runtimeconfig.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\01.Spaceship_Crafting\bin\Debug\netcoreapp3.1\01.Spaceship_Crafting.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\01.Spaceship_Crafting\bin\Debug\netcoreapp3.1\01.Spaceship_Crafting.dll
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\01.Spaceship_Crafting\bin\Debug\netcoreapp3.1\01.Spaceship_Crafting.pdb
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\01.Spaceship_Crafting\obj\Debug\netcoreapp3.1\01.Spaceship_Crafting.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\01.Spaceship_Crafting\obj\Debug\netcoreapp3.1\01.Spaceship_Crafting.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\01.Spaceship_Crafting\obj\Debug\netcoreapp3.1\01.Spaceship_Crafting.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\01.Spaceship_Crafting\obj\Debug\netcoreapp3.1\01.Spaceship_Crafting.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\01.Spaceship_Crafting\obj\Debug\netcoreapp3.1\01.Spaceship_Crafting.dll
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\01.Spaceship_Crafting\obj\Debug\netcoreapp3.1\01.Spaceship_Crafting.pdb
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\01.Spaceship_Crafting\obj\Debug\netcoreapp3.1\01.Spaceship_Crafting.genruntimeconfig.cache

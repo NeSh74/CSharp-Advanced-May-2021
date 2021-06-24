@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\03.Space_Station_Establishment\bin\Debug\netcoreapp3.1\03.Space_Station_Establishment.exe
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\03.Space_Station_Establishment\bin\Debug\netcoreapp3.1\03.Space_Station_Establishment.deps.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\03.Space_Station_Establishment\bin\Debug\netcoreapp3.1\03.Space_Station_Establishment.runtimeconfig.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\03.Space_Station_Establishment\bin\Debug\netcoreapp3.1\03.Space_Station_Establishment.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\03.Space_Station_Establishment\bin\Debug\netcoreapp3.1\03.Space_Station_Establishment.dll
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\03.Space_Station_Establishment\bin\Debug\netcoreapp3.1\03.Space_Station_Establishment.pdb
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\03.Space_Station_Establishment\obj\Debug\netcoreapp3.1\03.Space_Station_Establishment.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\03.Space_Station_Establishment\obj\Debug\netcoreapp3.1\03.Space_Station_Establishment.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\03.Space_Station_Establishment\obj\Debug\netcoreapp3.1\03.Space_Station_Establishment.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\03.Space_Station_Establishment\obj\Debug\netcoreapp3.1\03.Space_Station_Establishment.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\03.Space_Station_Establishment\obj\Debug\netcoreapp3.1\03.Space_Station_Establishment.dll
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\03.Space_Station_Establishment\obj\Debug\netcoreapp3.1\03.Space_Station_Establishment.pdb
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\03.Space_Station_Establishment\obj\Debug\netcoreapp3.1\03.Space_Station_Establishment.genruntimeconfig.cache

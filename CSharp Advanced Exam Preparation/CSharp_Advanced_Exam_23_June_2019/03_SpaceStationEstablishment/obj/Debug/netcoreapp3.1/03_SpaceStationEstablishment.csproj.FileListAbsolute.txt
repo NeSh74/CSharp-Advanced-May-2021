@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\03_SpaceStationEstablishment\bin\Debug\netcoreapp3.1\03_SpaceStationEstablishment.exe
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\03_SpaceStationEstablishment\bin\Debug\netcoreapp3.1\03_SpaceStationEstablishment.deps.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\03_SpaceStationEstablishment\bin\Debug\netcoreapp3.1\03_SpaceStationEstablishment.runtimeconfig.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\03_SpaceStationEstablishment\bin\Debug\netcoreapp3.1\03_SpaceStationEstablishment.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\03_SpaceStationEstablishment\bin\Debug\netcoreapp3.1\03_SpaceStationEstablishment.dll
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\03_SpaceStationEstablishment\bin\Debug\netcoreapp3.1\03_SpaceStationEstablishment.pdb
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\03_SpaceStationEstablishment\obj\Debug\netcoreapp3.1\03_SpaceStationEstablishment.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\03_SpaceStationEstablishment\obj\Debug\netcoreapp3.1\03_SpaceStationEstablishment.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\03_SpaceStationEstablishment\obj\Debug\netcoreapp3.1\03_SpaceStationEstablishment.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\03_SpaceStationEstablishment\obj\Debug\netcoreapp3.1\03_SpaceStationEstablishment.dll
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\03_SpaceStationEstablishment\obj\Debug\netcoreapp3.1\03_SpaceStationEstablishment.pdb
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\03_SpaceStationEstablishment\obj\Debug\netcoreapp3.1\03_SpaceStationEstablishment.genruntimeconfig.cache

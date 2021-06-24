@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\02.Space_Station_Recruitment\bin\Debug\netcoreapp3.1\SpaceStationRecruitment.exe
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\02.Space_Station_Recruitment\bin\Debug\netcoreapp3.1\SpaceStationRecruitment.deps.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\02.Space_Station_Recruitment\bin\Debug\netcoreapp3.1\SpaceStationRecruitment.runtimeconfig.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\02.Space_Station_Recruitment\bin\Debug\netcoreapp3.1\SpaceStationRecruitment.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\02.Space_Station_Recruitment\bin\Debug\netcoreapp3.1\SpaceStationRecruitment.dll
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\02.Space_Station_Recruitment\bin\Debug\netcoreapp3.1\SpaceStationRecruitment.pdb
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\02.Space_Station_Recruitment\obj\Debug\netcoreapp3.1\SpaceStationRecruitment.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\02.Space_Station_Recruitment\obj\Debug\netcoreapp3.1\SpaceStationRecruitment.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\02.Space_Station_Recruitment\obj\Debug\netcoreapp3.1\SpaceStationRecruitment.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\02.Space_Station_Recruitment\obj\Debug\netcoreapp3.1\SpaceStationRecruitment.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\02.Space_Station_Recruitment\obj\Debug\netcoreapp3.1\SpaceStationRecruitment.dll
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\02.Space_Station_Recruitment\obj\Debug\netcoreapp3.1\SpaceStationRecruitment.pdb
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\02.Space_Station_Recruitment\obj\Debug\netcoreapp3.1\SpaceStationRecruitment.genruntimeconfig.cache

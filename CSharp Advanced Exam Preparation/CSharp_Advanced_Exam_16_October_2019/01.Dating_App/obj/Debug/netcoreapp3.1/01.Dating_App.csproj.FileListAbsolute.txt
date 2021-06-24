@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_16_October_2019\01.Dating_App\bin\Debug\netcoreapp3.1\01.Dating_App.exe
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_16_October_2019\01.Dating_App\bin\Debug\netcoreapp3.1\01.Dating_App.deps.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_16_October_2019\01.Dating_App\bin\Debug\netcoreapp3.1\01.Dating_App.runtimeconfig.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_16_October_2019\01.Dating_App\bin\Debug\netcoreapp3.1\01.Dating_App.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_16_October_2019\01.Dating_App\bin\Debug\netcoreapp3.1\01.Dating_App.dll
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_16_October_2019\01.Dating_App\bin\Debug\netcoreapp3.1\01.Dating_App.pdb
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_16_October_2019\01.Dating_App\obj\Debug\netcoreapp3.1\01.Dating_App.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_16_October_2019\01.Dating_App\obj\Debug\netcoreapp3.1\01.Dating_App.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_16_October_2019\01.Dating_App\obj\Debug\netcoreapp3.1\01.Dating_App.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_16_October_2019\01.Dating_App\obj\Debug\netcoreapp3.1\01.Dating_App.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_16_October_2019\01.Dating_App\obj\Debug\netcoreapp3.1\01.Dating_App.dll
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_16_October_2019\01.Dating_App\obj\Debug\netcoreapp3.1\01.Dating_App.pdb
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_16_October_2019\01.Dating_App\obj\Debug\netcoreapp3.1\01.Dating_App.genruntimeconfig.cache

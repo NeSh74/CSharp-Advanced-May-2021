@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\01.SpaceCrafting\bin\Debug\netcoreapp3.1\01.SpaceCrafting.exe
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\01.SpaceCrafting\bin\Debug\netcoreapp3.1\01.SpaceCrafting.deps.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\01.SpaceCrafting\bin\Debug\netcoreapp3.1\01.SpaceCrafting.runtimeconfig.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\01.SpaceCrafting\bin\Debug\netcoreapp3.1\01.SpaceCrafting.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\01.SpaceCrafting\bin\Debug\netcoreapp3.1\01.SpaceCrafting.dll
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\01.SpaceCrafting\bin\Debug\netcoreapp3.1\01.SpaceCrafting.pdb
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\01.SpaceCrafting\obj\Debug\netcoreapp3.1\01.SpaceCrafting.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\01.SpaceCrafting\obj\Debug\netcoreapp3.1\01.SpaceCrafting.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\01.SpaceCrafting\obj\Debug\netcoreapp3.1\01.SpaceCrafting.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\01.SpaceCrafting\obj\Debug\netcoreapp3.1\01.SpaceCrafting.dll
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\01.SpaceCrafting\obj\Debug\netcoreapp3.1\01.SpaceCrafting.pdb
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_23_June_2019\01.SpaceCrafting\obj\Debug\netcoreapp3.1\01.SpaceCrafting.genruntimeconfig.cache

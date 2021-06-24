@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_16_October_2019\Rabbits\bin\Debug\netcoreapp3.1\Rabbits.exe
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_16_October_2019\Rabbits\bin\Debug\netcoreapp3.1\Rabbits.deps.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_16_October_2019\Rabbits\bin\Debug\netcoreapp3.1\Rabbits.runtimeconfig.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_16_October_2019\Rabbits\bin\Debug\netcoreapp3.1\Rabbits.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_16_October_2019\Rabbits\bin\Debug\netcoreapp3.1\Rabbits.dll
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_16_October_2019\Rabbits\bin\Debug\netcoreapp3.1\Rabbits.pdb
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_16_October_2019\Rabbits\obj\Debug\netcoreapp3.1\Rabbits.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_16_October_2019\Rabbits\obj\Debug\netcoreapp3.1\Rabbits.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_16_October_2019\Rabbits\obj\Debug\netcoreapp3.1\Rabbits.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_16_October_2019\Rabbits\obj\Debug\netcoreapp3.1\Rabbits.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_16_October_2019\Rabbits\obj\Debug\netcoreapp3.1\Rabbits.dll
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_16_October_2019\Rabbits\obj\Debug\netcoreapp3.1\Rabbits.pdb
+C:\Users\lenovo\source\repos\CSharp_Advanced_Exam_16_October_2019\Rabbits\obj\Debug\netcoreapp3.1\Rabbits.genruntimeconfig.cache
