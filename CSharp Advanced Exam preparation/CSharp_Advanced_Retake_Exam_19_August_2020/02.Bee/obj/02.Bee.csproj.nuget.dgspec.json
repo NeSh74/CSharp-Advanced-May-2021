@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lenovo\\source\\repos\\CSharp_Advanced_Retake_Exam_19_August_2020\\02.Bee\\02.Bee.csproj": {}
+    "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp_Advanced_Retake_Exam_19_August_2020\\02.Bee\\02.Bee.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lenovo\\source\\repos\\CSharp_Advanced_Retake_Exam_19_August_2020\\02.Bee\\02.Bee.csproj": {
+    "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp_Advanced_Retake_Exam_19_August_2020\\02.Bee\\02.Bee.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\CSharp_Advanced_Retake_Exam_19_August_2020\\02.Bee\\02.Bee.csproj",
+        "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp_Advanced_Retake_Exam_19_August_2020\\02.Bee\\02.Bee.csproj",
         "projectName": "02.Bee",
-        "projectPath": "C:\\Users\\lenovo\\source\\repos\\CSharp_Advanced_Retake_Exam_19_August_2020\\02.Bee\\02.Bee.csproj",
+        "projectPath": "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp_Advanced_Retake_Exam_19_August_2020\\02.Bee\\02.Bee.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\source\\repos\\CSharp_Advanced_Retake_Exam_19_August_2020\\02.Bee\\obj\\",
+        "outputPath": "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp_Advanced_Retake_Exam_19_August_2020\\02.Bee\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

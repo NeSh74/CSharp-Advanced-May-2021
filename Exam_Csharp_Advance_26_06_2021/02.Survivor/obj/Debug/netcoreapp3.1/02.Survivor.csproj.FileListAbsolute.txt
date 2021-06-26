@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Exam_Csharp_Advance\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.exe
+C:\Users\lenovo\source\repos\Exam_Csharp_Advance\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.deps.json
+C:\Users\lenovo\source\repos\Exam_Csharp_Advance\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exam_Csharp_Advance\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exam_Csharp_Advance\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.dll
+C:\Users\lenovo\source\repos\Exam_Csharp_Advance\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.pdb
+C:\Users\lenovo\source\repos\Exam_Csharp_Advance\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Exam_Csharp_Advance\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exam_Csharp_Advance\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exam_Csharp_Advance\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exam_Csharp_Advance\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.dll
+C:\Users\lenovo\source\repos\Exam_Csharp_Advance\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.pdb
+C:\Users\lenovo\source\repos\Exam_Csharp_Advance\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.genruntimeconfig.cache

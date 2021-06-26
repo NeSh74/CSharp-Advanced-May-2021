@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\CSharp_Advanced_Retake_Exam_16_December_2020\\01.Cooking\\01.Cooking.csproj",
+      "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp_Advanced_Retake_Exam_16_December_2020\\01.Cooking\\01.Cooking.csproj",
       "projectName": "01.Cooking",
-      "projectPath": "C:\\Users\\lenovo\\source\\repos\\CSharp_Advanced_Retake_Exam_16_December_2020\\01.Cooking\\01.Cooking.csproj",
+      "projectPath": "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp_Advanced_Retake_Exam_16_December_2020\\01.Cooking\\01.Cooking.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lenovo\\source\\repos\\CSharp_Advanced_Retake_Exam_16_December_2020\\01.Cooking\\obj\\",
+      "outputPath": "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp_Advanced_Retake_Exam_16_December_2020\\01.Cooking\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

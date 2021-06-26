@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\CSharp_Advanced_Exam_28_June_2020\\01.Bombs\\01.Bombs.csproj",
+      "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp_Advanced_Exam_28_June_2020\\01.Bombs\\01.Bombs.csproj",
       "projectName": "01.Bombs",
-      "projectPath": "C:\\Users\\lenovo\\source\\repos\\CSharp_Advanced_Exam_28_June_2020\\01.Bombs\\01.Bombs.csproj",
+      "projectPath": "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp_Advanced_Exam_28_June_2020\\01.Bombs\\01.Bombs.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lenovo\\source\\repos\\CSharp_Advanced_Exam_28_June_2020\\01.Bombs\\obj\\",
+      "outputPath": "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp_Advanced_Exam_28_June_2020\\01.Bombs\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

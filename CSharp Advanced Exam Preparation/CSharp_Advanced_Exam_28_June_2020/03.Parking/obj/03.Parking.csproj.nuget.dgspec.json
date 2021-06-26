@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lenovo\\source\\repos\\CSharp_Advanced_Exam_28_June_2020\\03.Parking\\03.Parking.csproj": {}
+    "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp_Advanced_Exam_28_June_2020\\03.Parking\\03.Parking.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lenovo\\source\\repos\\CSharp_Advanced_Exam_28_June_2020\\03.Parking\\03.Parking.csproj": {
+    "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp_Advanced_Exam_28_June_2020\\03.Parking\\03.Parking.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\CSharp_Advanced_Exam_28_June_2020\\03.Parking\\03.Parking.csproj",
+        "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp_Advanced_Exam_28_June_2020\\03.Parking\\03.Parking.csproj",
         "projectName": "03.Parking",
-        "projectPath": "C:\\Users\\lenovo\\source\\repos\\CSharp_Advanced_Exam_28_June_2020\\03.Parking\\03.Parking.csproj",
+        "projectPath": "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp_Advanced_Exam_28_June_2020\\03.Parking\\03.Parking.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\source\\repos\\CSharp_Advanced_Exam_28_June_2020\\03.Parking\\obj\\",
+        "outputPath": "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp_Advanced_Exam_28_June_2020\\03.Parking\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

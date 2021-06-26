@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lenovo\\source\\repos\\CSharp_Advanced_Exam_23_June_2019\\01.SpaceCrafting\\01.SpaceCrafting.csproj": {}
+    "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp_Advanced_Exam_23_June_2019\\01.SpaceCrafting\\01.SpaceCrafting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lenovo\\source\\repos\\CSharp_Advanced_Exam_23_June_2019\\01.SpaceCrafting\\01.SpaceCrafting.csproj": {
+    "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp_Advanced_Exam_23_June_2019\\01.SpaceCrafting\\01.SpaceCrafting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\CSharp_Advanced_Exam_23_June_2019\\01.SpaceCrafting\\01.SpaceCrafting.csproj",
+        "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp_Advanced_Exam_23_June_2019\\01.SpaceCrafting\\01.SpaceCrafting.csproj",
         "projectName": "01.SpaceCrafting",
-        "projectPath": "C:\\Users\\lenovo\\source\\repos\\CSharp_Advanced_Exam_23_June_2019\\01.SpaceCrafting\\01.SpaceCrafting.csproj",
+        "projectPath": "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp_Advanced_Exam_23_June_2019\\01.SpaceCrafting\\01.SpaceCrafting.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\source\\repos\\CSharp_Advanced_Exam_23_June_2019\\01.SpaceCrafting\\obj\\",
+        "outputPath": "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp_Advanced_Exam_23_June_2019\\01.SpaceCrafting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\lenovo\\source\\repos\\CSharp_Advanced_Exam_23_June_2019\\02.Space_Station_Recruitment\\SpaceStationRecruitment.csproj": {
-                "projectPath": "C:\\Users\\lenovo\\source\\repos\\CSharp_Advanced_Exam_23_June_2019\\02.Space_Station_Recruitment\\SpaceStationRecruitment.csproj"
+              "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp_Advanced_Exam_23_June_2019\\02.Space_Station_Recruitment\\SpaceStationRecruitment.csproj": {
+                "projectPath": "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp_Advanced_Exam_23_June_2019\\02.Space_Station_Recruitment\\SpaceStationRecruitment.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\lenovo\\source\\repos\\CSharp_Advanced_Exam_23_June_2019\\02.Space_Station_Recruitment\\SpaceStationRecruitment.csproj": {
+    "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp_Advanced_Exam_23_June_2019\\02.Space_Station_Recruitment\\SpaceStationRecruitment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\CSharp_Advanced_Exam_23_June_2019\\02.Space_Station_Recruitment\\SpaceStationRecruitment.csproj",
+        "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp_Advanced_Exam_23_June_2019\\02.Space_Station_Recruitment\\SpaceStationRecruitment.csproj",
         "projectName": "SpaceStationRecruitment",
-        "projectPath": "C:\\Users\\lenovo\\source\\repos\\CSharp_Advanced_Exam_23_June_2019\\02.Space_Station_Recruitment\\SpaceStationRecruitment.csproj",
+        "projectPath": "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp_Advanced_Exam_23_June_2019\\02.Space_Station_Recruitment\\SpaceStationRecruitment.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\source\\repos\\CSharp_Advanced_Exam_23_June_2019\\02.Space_Station_Recruitment\\obj\\",
+        "outputPath": "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp_Advanced_Exam_23_June_2019\\02.Space_Station_Recruitment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

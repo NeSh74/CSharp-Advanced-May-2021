@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\CSharp_Advanced_Exam_23_June_2019\\02.Space_Station_Recruitment\\SpaceStationRecruitment.csproj",
+      "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp_Advanced_Exam_23_June_2019\\02.Space_Station_Recruitment\\SpaceStationRecruitment.csproj",
       "projectName": "SpaceStationRecruitment",
-      "projectPath": "C:\\Users\\lenovo\\source\\repos\\CSharp_Advanced_Exam_23_June_2019\\02.Space_Station_Recruitment\\SpaceStationRecruitment.csproj",
+      "projectPath": "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp_Advanced_Exam_23_June_2019\\02.Space_Station_Recruitment\\SpaceStationRecruitment.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lenovo\\source\\repos\\CSharp_Advanced_Exam_23_June_2019\\02.Space_Station_Recruitment\\obj\\",
+      "outputPath": "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp_Advanced_Exam_23_June_2019\\02.Space_Station_Recruitment\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

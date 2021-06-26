@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\CSharp_Advanced_Exam_23_June_2019\\01.Spaceship_Crafting\\01.Spaceship_Crafting.csproj",
+      "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp_Advanced_Exam_23_June_2019\\01.Spaceship_Crafting\\01.Spaceship_Crafting.csproj",
       "projectName": "01.Spaceship_Crafting",
-      "projectPath": "C:\\Users\\lenovo\\source\\repos\\CSharp_Advanced_Exam_23_June_2019\\01.Spaceship_Crafting\\01.Spaceship_Crafting.csproj",
+      "projectPath": "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp_Advanced_Exam_23_June_2019\\01.Spaceship_Crafting\\01.Spaceship_Crafting.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lenovo\\source\\repos\\CSharp_Advanced_Exam_23_June_2019\\01.Spaceship_Crafting\\obj\\",
+      "outputPath": "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp_Advanced_Exam_23_June_2019\\01.Spaceship_Crafting\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

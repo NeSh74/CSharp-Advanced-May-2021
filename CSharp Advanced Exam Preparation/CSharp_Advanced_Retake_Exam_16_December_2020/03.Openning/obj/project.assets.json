@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\CSharp_Advanced_Retake_Exam_16_December_2020\\03.Openning\\03.Openning.csproj",
+      "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp_Advanced_Retake_Exam_16_December_2020\\03.Openning\\03.Openning.csproj",
       "projectName": "03.Openning",
-      "projectPath": "C:\\Users\\lenovo\\source\\repos\\CSharp_Advanced_Retake_Exam_16_December_2020\\03.Openning\\03.Openning.csproj",
+      "projectPath": "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp_Advanced_Retake_Exam_16_December_2020\\03.Openning\\03.Openning.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lenovo\\source\\repos\\CSharp_Advanced_Retake_Exam_16_December_2020\\03.Openning\\obj\\",
+      "outputPath": "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp_Advanced_Retake_Exam_16_December_2020\\03.Openning\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lenovo\\source\\repos\\CSharp_Advanced_Exam_23_June_2019\\03_SpaceStationEstablishment\\03_SpaceStationEstablishment.csproj": {}
+    "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp_Advanced_Exam_23_June_2019\\03_SpaceStationEstablishment\\03_SpaceStationEstablishment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lenovo\\source\\repos\\CSharp_Advanced_Exam_23_June_2019\\03_SpaceStationEstablishment\\03_SpaceStationEstablishment.csproj": {
+    "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp_Advanced_Exam_23_June_2019\\03_SpaceStationEstablishment\\03_SpaceStationEstablishment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\CSharp_Advanced_Exam_23_June_2019\\03_SpaceStationEstablishment\\03_SpaceStationEstablishment.csproj",
+        "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp_Advanced_Exam_23_June_2019\\03_SpaceStationEstablishment\\03_SpaceStationEstablishment.csproj",
         "projectName": "03_SpaceStationEstablishment",
-        "projectPath": "C:\\Users\\lenovo\\source\\repos\\CSharp_Advanced_Exam_23_June_2019\\03_SpaceStationEstablishment\\03_SpaceStationEstablishment.csproj",
+        "projectPath": "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp_Advanced_Exam_23_June_2019\\03_SpaceStationEstablishment\\03_SpaceStationEstablishment.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\source\\repos\\CSharp_Advanced_Exam_23_June_2019\\03_SpaceStationEstablishment\\obj\\",
+        "outputPath": "C:\\Users\\lenovo\\Desktop\\C# Advanced - May 2021\\CSharp Advanced Exam Preparation\\CSharp_Advanced_Exam_23_June_2019\\03_SpaceStationEstablishment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
